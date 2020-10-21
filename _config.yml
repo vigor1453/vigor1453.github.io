@@ -60,7 +60,7 @@ footer-text: Copyright (c) 2020 HaoranDeng
 disqus: # fromendworld
 
 # Gitalk
-# 评论功能的配置
+# goto https://github.com/settings/applications/new for a clientID
 gitalk:
   clientID: 9d04d6e4ee39740b7256
   clientSecret: e42b54975cf8afbfd92234fc81eeee0827c245ea
