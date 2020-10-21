@@ -62,10 +62,10 @@ disqus: # fromendworld
 # Gitalk
 # 评论功能的配置
 gitalk:
-  clientID:
-  clientSecret:
-  repo:
-  owner:
+  clientID: 9d04d6e4ee39740b7256
+  clientSecret: e42b54975cf8afbfd92234fc81eeee0827c245ea
+  repo: oneman233.github.io
+  owner: oneman233
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 # google_analytics: 
