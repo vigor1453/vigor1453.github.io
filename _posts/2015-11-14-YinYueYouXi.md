@@ -5,6 +5,7 @@ date: 2015-11-14
 tags: ["旧","杂谈"]
 comments: true
 author: oneman233
+description: "一首歌和一些感想"
 ---
 
 <div class="aplayer" data-id="30814948" data-server="netease" data-type="song"></div>
