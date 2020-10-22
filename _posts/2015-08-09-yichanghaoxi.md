@@ -2,7 +2,7 @@
 layout: post
 title: "一场好戏"
 date: 2015-08-09
-tags: "杂谈"
+tags: "旧杂谈"
 comments: true
 author: oneman233
 ---
