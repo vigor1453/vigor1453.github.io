@@ -2,7 +2,7 @@
 layout: post
 title: "不胜荣幸"
 date: 2015-08-09
-tags: "旧杂谈"
+tags: ["旧","杂谈"]
 comments: true
 author: Mark-Yu
 ---

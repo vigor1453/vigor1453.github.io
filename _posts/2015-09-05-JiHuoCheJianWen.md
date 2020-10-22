@@ -2,7 +2,7 @@
 layout: post
 title: "记火车见闻"
 date: 2015-09-05
-tags: "旧杂谈"
+tags: ["旧","杂谈"]
 comments: true
 author: Mark-Yu
 ---

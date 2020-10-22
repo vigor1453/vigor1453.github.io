@@ -2,7 +2,7 @@
 layout: post
 title: "宋东野"
 date: 2015-09-02
-tags: "旧杂谈"
+tags: ["旧","杂谈"]
 comments: true
 author: oneman233
 ---

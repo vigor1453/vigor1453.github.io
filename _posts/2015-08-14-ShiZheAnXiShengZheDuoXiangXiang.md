@@ -2,7 +2,7 @@
 layout: post
 title: "逝者安息，生者多想想"
 date: 2015-08-14
-tags: "旧杂谈"
+tags: ["旧","杂谈"]
 comments: true
 author: oneman233
 ---

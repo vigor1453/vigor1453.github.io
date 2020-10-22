@@ -2,7 +2,7 @@
 layout: post
 title: "荣誉至高无上"
 date: 2015-08-15
-tags: "旧杂谈"
+tags: ["旧","杂谈"]
 comments: true
 author: oneman233
 ---

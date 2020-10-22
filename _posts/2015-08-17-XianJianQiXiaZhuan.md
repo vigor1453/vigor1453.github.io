@@ -2,7 +2,7 @@
 layout: post
 title: "仙剑奇侠传"
 date: 2015-08-17
-tags: "旧杂谈"
+tags: ["旧","杂谈"]
 comments: true
 author: oneman233
 ---

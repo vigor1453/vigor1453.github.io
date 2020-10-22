@@ -2,7 +2,7 @@
 layout: post
 title: "所谓纵横"
 date: 2015-08-21
-tags: "旧杂谈"
+tags: ["旧","杂谈"]
 comments: true
 author: Mark-Yu
 ---
