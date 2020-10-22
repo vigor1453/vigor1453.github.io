@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "如何建立Github"
-date: 2018-09-16
+date: 2018-09-23
 tags: ["旧","技术"]
 comments: true
 author: oneman233
 excerpt: "从零开始"
 toc: true
 ---
+
 # 基本操作
 
 1. 第一步下载安装git
@@ -89,3 +90,6 @@ https://blog.csdn.net/bbtang5568/article/details/82791750?utm_source=blogxgwz6
 # 2020.7.16更新：
 错误==Updates were rejected because the tip of your current branch is behind==的解决办法：
 https://blog.csdn.net/michael10001/article/details/51371715
+
+错误==custom: description control characters are not allowed==的原因：
+传到github上去的时候description里面不能有回车换行符
