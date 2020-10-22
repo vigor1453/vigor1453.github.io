@@ -7,7 +7,7 @@ comments: true
 author: oneman233
 ---
 
-<div class="aplayer" data-id="30814948" data-server="netease" data-type="son"></div>
+<div class="aplayer" data-id="30814948" data-server="netease" data-type="song"></div>
 
 这周弄了音乐插件。斑马斑马是我打算在下下周班级音乐会上唱的曲子，下周放假两天，再加上刚好考试完，有时间好好练习一下。放假那两天再找伴奏，歌词今天就开始背。
 
