@@ -121,4 +121,4 @@ exclude:
   - CNAME
 
 
-theme: jekyll-theme-midnight
+theme: jekyll-theme-minimal
