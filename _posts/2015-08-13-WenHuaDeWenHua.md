@@ -5,7 +5,7 @@ date: 2015-08-13
 tags: ["旧","杂谈"]
 comments: true
 author: oneman233
-description: "投票和民主"
+excerpt: "投票和民主"
 ---
 
 首先有一个新闻，载在这周的南方周末上，网址在这里：http://www.infzm.com/content/111105

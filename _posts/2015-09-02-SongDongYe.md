@@ -5,7 +5,7 @@ date: 2015-09-02
 tags: ["旧","杂谈"]
 comments: true
 author: oneman233
-description: "一位歌手"
+excerpt: "一位歌手"
 ---
 
 我很少直接用别人的名字拿来做题目的，这次算是破例，以后估计还会破例。
