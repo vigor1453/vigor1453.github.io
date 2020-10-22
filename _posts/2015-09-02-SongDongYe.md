@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "宋东野"
+title: "宋冬野"
 date: 2015-09-02
 tags: ["旧","杂谈"]
 comments: true
