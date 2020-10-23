@@ -13,16 +13,16 @@
     <nav>
       {% for nav in site.navigation %}
       {% if nav.url contains 'http://' or nav.url contains 'https://' %}
-      <a href="{{ nav.url }}">{{ nav.name }}</a>
+      <p href="{{ nav.url }}">{{ nav.name }}</p>
       {% else %}
-      <a href="{{ site.baseurl }}{{ nav.url }}">{{ nav.name }}</a>
+      <p href="{{ site.baseurl }}{{ nav.url }}">{{ nav.name }}</p>
       {% endif %}
       {% endfor %}
     </nav>
   </div>
 
   <div class="search-container">
-    <input type="text" id="search-input" placeholder="search blog posts..." style="margin-top: 5%; margin-left: 5%; width: 90%;
+    <input type="text" id="search-input" placeholder="搜索博文" style="margin-top: 5%; margin-left: 5%; width: 90%;
       height: 35px;
       color: #333;
       background-color: rgba(227,231,236,.2);
