@@ -29,6 +29,9 @@ navigation:
   - name: 关于
     url: /about
 
+# 修改markdown引擎
+markdown: kramdown
+
 # Pagination
 paginate: 8
 
