@@ -2,7 +2,7 @@
 layout: post
 title: "一些批话"
 date: 2019-05-26
-tags: ["旧","杂谈"]
+tags: ["旧","读后感和玩后感"]
 comments: true
 author: Phillip
 excerpt: "Phillip的观后感"
