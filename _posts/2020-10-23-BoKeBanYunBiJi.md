@@ -71,3 +71,7 @@ written by {{ page.author }}
 参考：[使用指南](http://yangyingming.com/article/428/)
 
 项目原Github地址：[项目原地址](https://github.com/metowolf/MetingJS#option)
+
+# markdown公式显示不全
+
+参考：[如何采用MathJax](http://leohope.com/%E8%A7%A3%E9%97%AE%E9%A2%98/2017/09/08/page-with-latex/)
