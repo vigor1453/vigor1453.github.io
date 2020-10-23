@@ -13,12 +13,12 @@ toc: true
 
 1948年的时候，乔治奥威尔完成了《1984》。这是他的第二部小说，这位只活了47岁的作家一生只写了两部小说，第一部叫动物庄园。特朗普上台的时候，美国亚马逊上《1984》的销量暴涨了9500%。
 
-<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">
-
-
-![1984封面](../images/2017-07-02-FanWuTuoBangDeWenXueYuYouXiYuDianYing-1.jpeg "1984封面")
-
-1984早就被许多书评杂志列为一生必看的小说之一</center>
+<div style="text-align: center">
+    <img src="../images/2017-07-02-FanWuTuoBangDeWenXueYuYouXiYuDianYing-1.jpeg"/>
+    <p style="font-size:14px;color:#C0C0C0;text-decoration:underline">
+        1984早就被许多书评杂志列为一生必看的小说之一
+    </p>
+</div>
 
 1984描写了一个令人感到窒息的极权社会，在那个社会中，个人被完全消灭，集体的利益大于一切，而且个人崇拜演化到了宗教的地步，战争的进行甚至只是为了社会的正常运行。这种集权制度与天灾导致的毁灭不同，它是人为的思想毁灭。乔治奥威尔在1948年就预见到了这一切，并且开创了一个新的文学流派——反乌托邦。
 
@@ -26,12 +26,12 @@ toc: true
 
 后来英国的一个空想社会主义者，托马斯莫尔，在他的名著《乌托邦》里虚构了一个航海家来到了一个世外桃源般的世界：那里财产公有，人们平均分配资源，简直就是社会主义的美好蓝图。只可惜，托马斯莫尔是个“空想”社会主义者，他一生都没有机会在现实里实现自己的消灭私有制的理想。
 
-<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">
-
-
-![托马斯莫尔肖像](../images/2017-07-02-FanWuTuoBangDeWenXueYuYouXiYuDianYing-2.jpeg "托马斯莫尔肖像")
-
-托马斯莫尔</center>
+<div style="text-align: center">
+    <img src="../images/2017-07-02-FanWuTuoBangDeWenXueYuYouXiYuDianYing-2.jpeg"/>
+    <p style="font-size:14px;color:#C0C0C0;text-decoration:underline">
+        托马斯莫尔
+    </p>
+</div>
 
 反乌托邦文学，顾名思义，就是打碎那些泡沫般的理想，用残酷的想象来反映时下社会中的问题，警示人们潜在的危险。世界三大反乌托邦小说——《1984》《我们》《美丽新世界》——无一例外的掺杂了作者对于未来恐怖社会的想象。例如在《美丽新世界》中，人们就被一种名叫唆麻的药物所操控。
 
@@ -43,12 +43,12 @@ toc: true
 
 我接触的第一款真正意义上的反乌托邦游戏，是replica，中文翻译叫复制。
 
-<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">
-
-
-![replica截图](../images/2017-07-02-FanWuTuoBangDeWenXueYuYouXiYuDianYing-3.jpeg "replica截图")
-
-replica也是拿奖到手软</center>
+<div style="text-align: center">
+    <img src="../images/2017-07-02-FanWuTuoBangDeWenXueYuYouXiYuDianYing-3.jpeg"/>
+    <p style="font-size:14px;color:#C0C0C0;text-decoration:underline">
+        replica也是拿奖到手软
+    </p>
+</div>
 
 replica讲述的是玩家扮演的主人公被国家机关囚禁起来，并且被要求去检查一位你素昧平生的男孩的手机，否则你将不会被释放。游戏中你可以按照指令一步一步地去探寻他人的隐私，也可以违背指令，努力地“解放”自己。这款游戏最震撼人心的地方在于，当你按照指令完成了所有任务时，你会突然发现自己已经不自觉成为了国家的鹰犬。游戏结束时屏幕上会弹出三行字：
 
@@ -69,12 +69,12 @@ replica讲述的是玩家扮演的主人公被国家机关囚禁起来，并且�
 
 我突然想起《无间道》里那句经典的台词：我想做个好人。
 
-<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">
-
-
-![beholder截图](../images/2017-07-02-FanWuTuoBangDeWenXueYuYouXiYuDianYing-4.jpeg "beholder截图")
-
-左侧的几台电视机其实就概括了游戏的大部分内容</center>
+<div style="text-align: center">
+    <img src="../images/2017-07-02-FanWuTuoBangDeWenXueYuYouXiYuDianYing-4.jpeg"/>
+    <p style="font-size:14px;color:#C0C0C0;text-decoration:underline">
+        左侧的几台电视机其实就概括了游戏的大部分内容
+    </p>
+</div>
 
 旁观者是我玩过的为数不多让我觉得揪心到玩不下去的游戏，也许现实远比它残酷。旁观者新推出的DLC名字叫安乐死，我居然不想再去体验一遍。
 
@@ -84,12 +84,12 @@ replica讲述的是玩家扮演的主人公被国家机关囚禁起来，并且�
 
 我今天主要聊聊游戏本身。
 
-<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">
-
-
-![返校截图](../images/2017-07-02-FanWuTuoBangDeWenXueYuYouXiYuDianYing-5.jpeg "返校截图")
-
-这个邪魅一笑成了不少玩家的心理阴影</center>
+<div style="text-align: center">
+    <img src="../images/2017-07-02-FanWuTuoBangDeWenXueYuYouXiYuDianYing-5.jpeg"/>
+    <p style="font-size:14px;color:#C0C0C0;text-decoration:underline">
+        这个邪魅一笑成了不少玩家的心理阴影
+    </p>
+</div>
 
 《返校》是一款足够优秀的恐怖游戏，无论是在气氛营造还是故事叙述上，都有许多亮点。阴暗的环境，以及场景中布置的有关宗教的道具，比如蜡烛、佛龛等等，都让我在游玩时心中捏了一把汗。而且返校中有许多介绍故事背景的小道具，从中能窥见白色恐怖时代的人心惶惶和疯狂。终究来说，政治是人发明的东西，所有的政治问题，都是人的问题。
 
@@ -101,12 +101,12 @@ replica讲述的是玩家扮演的主人公被国家机关囚禁起来，并且�
 
 反乌托邦的电影，首推V字仇杀队。不是说它多么好看，只是说它给人们带来的影响。
 
-<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">
-
-
-![V字仇杀队剧照](../images/2017-07-02-FanWuTuoBangDeWenXueYuYouXiYuDianYing-6.jpeg "V字仇杀队剧照")
-
-不少叛逆的服饰上都会印着这张脸</center>
+<div style="text-align: center">
+    <img src="../images/2017-07-02-FanWuTuoBangDeWenXueYuYouXiYuDianYing-6.jpeg"/>
+    <p style="font-size:14px;color:#C0C0C0;text-decoration:underline">
+        不少叛逆的服饰上都会印着这张脸
+    </p>
+</div>
 
 由DC漫画改变的超级英雄电影——V字仇杀队——实际上只讲了一个俗套的故事，革命与反革命。其中最经典的一句台词莫过于：人民不应该害怕他们的政府，政府应该害怕他们的人民。
 
@@ -116,12 +116,12 @@ replica讲述的是玩家扮演的主人公被国家机关囚禁起来，并且�
 
 攻壳机动队的电影版本只有三部，包括押井守监督的攻壳机动队、攻壳机动队2：无罪，还有斯嘉丽约翰逊主演的攻壳机动队真人版。另外攻壳机动队还有两部TV版，分别是SAC和GIG。它们都是从士郎正宗原作的漫画改编而来。
 
-<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">
-
-
-![攻壳机动队剧照](../images/2017-07-02-FanWuTuoBangDeWenXueYuYouXiYuDianYing-7.jpeg "攻壳机动队剧照")
-
-很长一段时间我无法接受其他的日本动画</center>
+<div style="text-align: center">
+    <img src="../images/2017-07-02-FanWuTuoBangDeWenXueYuYouXiYuDianYing-7.jpeg"/>
+    <p style="font-size:14px;color:#C0C0C0;text-decoration:underline">
+        很长一段时间我无法接受其他的日本动画
+    </p>
+</div>
 
 攻壳机动队的漫画从1989年开始连载，讲述了在虚构的未来，人们的大脑大多数都被替换成“电子脑”，在脖颈后留有几个USB接口，而且人们的四肢也被替换成更为坚固且易于更换的“义体”，就跟尼尔机械纪元的设定差不多。主角草雉素子，就是上图中的妹子，是公安九课的一名警员，专门负责与电子脑相关的刑事犯罪案件，她周围的同事都称呼她“少佐”。她很小时就全身义体化，并且非常擅长黑客战。
 
@@ -129,18 +129,15 @@ replica讲述的是玩家扮演的主人公被国家机关囚禁起来，并且�
 
 攻壳机动队TV版第一部最后几集，公安九课因为某种原因成为了政治的牺牲品，而整个TV版的第二部，都在影射日本政治的不堪之处。
 
-<center>
 
-![笑面男标志](../images/2017-07-02-FanWuTuoBangDeWenXueYuYouXiYuDianYing-8.jpeg "笑面男标志")
+<div style="text-align: center">
+    <img src="../images/2017-07-02-FanWuTuoBangDeWenXueYuYouXiYuDianYing-8.jpeg"/>
+    <p style="font-size:14px;color:#C0C0C0;text-decoration:underline">
+        攻壳机动队TV版第一部中主要人物笑面男的标志
+    </p>
+</div>
 
-</center>
-
-<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">
-
-攻壳机动队TV版第一部中主要人物笑面男的标志
-标志周围的英文句子出自《麦田里的守望者》，大致意思是“我觉得我只需要成为一个傻子、聋子和哑巴”
-
-</center>
+值得一提的是，上面那个标志周围的一圈英文句子出自《麦田里的守望者》，大致意思是“我觉得我只需要成为一个傻子、聋子和哑巴”。
 
 罗素在西方哲学史里有一句话：科学帮助人们生产，哲学指导人们使用科学。攻壳机动队描写的未来不算非常黑暗，但是却是一个哲学发展远远落后于科学的时代。如果我们全身都被替换成了机械，我们还存在吗？这在某种意义上说是一种科学对人类自己的反噬，就像那个叫做弗兰肯斯坦的科学怪人一样。
 
