@@ -110,7 +110,12 @@ signed main() {
 
 wps调整行间距的方法：
 
-![如何调整行间距](../images/2019-04-25-YiXieBiJi-1.png "如何调整行间距")
+<div align=center>
+    <img src="../images/2019-04-25-YiXieBiJi-1.png"/>
+    <p style="font-size:14px;color:#C0C0C0;text-decoration:underline">
+        如何调整行间距
+    </p>
+</div>
 
 wps插入横线：插入-形状-线条
 wps打开网格线：视图-网格线（用于处理文档对齐）

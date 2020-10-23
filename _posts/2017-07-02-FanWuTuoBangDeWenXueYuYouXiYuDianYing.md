@@ -26,7 +26,7 @@ toc: true
 
 后来英国的一个空想社会主义者，托马斯莫尔，在他的名著《乌托邦》里虚构了一个航海家来到了一个世外桃源般的世界：那里财产公有，人们平均分配资源，简直就是社会主义的美好蓝图。只可惜，托马斯莫尔是个“空想”社会主义者，他一生都没有机会在现实里实现自己的消灭私有制的理想。
 
-<div style="text-align: center">
+<div align=center>
     <img src="../images/2017-07-02-FanWuTuoBangDeWenXueYuYouXiYuDianYing-2.jpeg"/>
     <p style="font-size:14px;color:#C0C0C0;text-decoration:underline">
         托马斯莫尔
@@ -43,7 +43,7 @@ toc: true
 
 我接触的第一款真正意义上的反乌托邦游戏，是replica，中文翻译叫复制。
 
-<div style="text-align: center">
+<div align=center>
     <img src="../images/2017-07-02-FanWuTuoBangDeWenXueYuYouXiYuDianYing-3.jpeg"/>
     <p style="font-size:14px;color:#C0C0C0;text-decoration:underline">
         replica也是拿奖到手软
@@ -69,7 +69,7 @@ replica讲述的是玩家扮演的主人公被国家机关囚禁起来，并且�
 
 我突然想起《无间道》里那句经典的台词：我想做个好人。
 
-<div style="text-align: center">
+<div align=center>
     <img src="../images/2017-07-02-FanWuTuoBangDeWenXueYuYouXiYuDianYing-4.jpeg"/>
     <p style="font-size:14px;color:#C0C0C0;text-decoration:underline">
         左侧的几台电视机其实就概括了游戏的大部分内容
@@ -84,7 +84,7 @@ replica讲述的是玩家扮演的主人公被国家机关囚禁起来，并且�
 
 我今天主要聊聊游戏本身。
 
-<div style="text-align: center">
+<div align=center>
     <img src="../images/2017-07-02-FanWuTuoBangDeWenXueYuYouXiYuDianYing-5.jpeg"/>
     <p style="font-size:14px;color:#C0C0C0;text-decoration:underline">
         这个邪魅一笑成了不少玩家的心理阴影
@@ -101,7 +101,7 @@ replica讲述的是玩家扮演的主人公被国家机关囚禁起来，并且�
 
 反乌托邦的电影，首推V字仇杀队。不是说它多么好看，只是说它给人们带来的影响。
 
-<div style="text-align: center">
+<div align=center>
     <img src="../images/2017-07-02-FanWuTuoBangDeWenXueYuYouXiYuDianYing-6.jpeg"/>
     <p style="font-size:14px;color:#C0C0C0;text-decoration:underline">
         不少叛逆的服饰上都会印着这张脸
@@ -116,7 +116,7 @@ replica讲述的是玩家扮演的主人公被国家机关囚禁起来，并且�
 
 攻壳机动队的电影版本只有三部，包括押井守监督的攻壳机动队、攻壳机动队2：无罪，还有斯嘉丽约翰逊主演的攻壳机动队真人版。另外攻壳机动队还有两部TV版，分别是SAC和GIG。它们都是从士郎正宗原作的漫画改编而来。
 
-<div style="text-align: center">
+<div align=center>
     <img src="../images/2017-07-02-FanWuTuoBangDeWenXueYuYouXiYuDianYing-7.jpeg"/>
     <p style="font-size:14px;color:#C0C0C0;text-decoration:underline">
         很长一段时间我无法接受其他的日本动画
@@ -130,7 +130,7 @@ replica讲述的是玩家扮演的主人公被国家机关囚禁起来，并且�
 攻壳机动队TV版第一部最后几集，公安九课因为某种原因成为了政治的牺牲品，而整个TV版的第二部，都在影射日本政治的不堪之处。
 
 
-<div style="text-align: center">
+<div align=center>
     <img src="../images/2017-07-02-FanWuTuoBangDeWenXueYuYouXiYuDianYing-8.jpeg"/>
     <p style="font-size:14px;color:#C0C0C0;text-decoration:underline">
         攻壳机动队TV版第一部中主要人物笑面男的标志

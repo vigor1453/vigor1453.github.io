@@ -15,16 +15,18 @@ toc: true
 
 # 添加图片和图片说明（居中显示）
 
-    <center style="font-size:14px;color:#C0C0C0;text-decoration:underline">
-    ![图片](图片url "鼠标悬停在图片上时显示的文字")
-    图片说明
-    </center>
+    <div align=center>
+    <img src="图片地址"/>
+    <p style="font-size:14px;color:#C0C0C0;text-decoration:underline">
+        图片说明
+    </p>
+    </div>
 
 效果：
 
-<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">
-图片说明
-</center>
+<p style="font-size:14px;color:#C0C0C0;text-decoration:underline">
+    图片说明
+</p>
 
 # Jekyll添加文章摘要和开启目录
 

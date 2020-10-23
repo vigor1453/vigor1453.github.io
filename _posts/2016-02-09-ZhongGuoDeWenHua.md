@@ -24,11 +24,12 @@ excerpt: "下乡见闻"
 
 中国过去建筑留了很多有意思的东西，这次回乡我还找到了一间房子，可能有二三十年了吧，照片在下面：
 
-<center>
-
-![老房子的照片](../images/2016-02-09-ZhongGuoDeWenHua-1.jpg "老房子的照片")
-
-</center>
+<div align=center>
+    <img src="../images/2016-02-09-ZhongGuoDeWenHua-1.jpg"/>
+    <p style="font-size:14px;color:#C0C0C0;text-decoration:underline">
+        老房子的照片
+    </p>
+</div>
 
 这房子离坍塌不远了，但是结构仍然完整，能看到有几间屋子，而且它的正面上面用砖拼接出了一个五角星，可能在照片上看不大清楚，但是它的棱角是很整齐的，要知道那时候没有车床，只有刻刀。我打算进去看看，大爸却把我拦住：“危房，有什么好看的”。中国绝大多数老房子都是一样的处境——新的楼房一天比一天密集，它们却倒的倒、塌的塌。父亲也举过一个简单的例子：爷爷去世之后，谁还会回老家去？大爸幺爸都在城里买了房子，几十年以后，我当爷爷的时候，老家恐怕也跟图片里的房子相差无几了。没人再回原地，见证历史的东西就死在阴暗的角落里，只有少数几个幸存者，打着古典建筑的旗号，每天被潮水般的人群淹没，以另一种方式缓缓死去。我们的文化也就跟建筑一样，在慢性自杀。
 
@@ -36,13 +37,19 @@ excerpt: "下乡见闻"
 
 这是新闻截图：
 
-<center>
+<div align=center>
+    <img src="../images/2016-02-09-ZhongGuoDeWenHua-2.png"/>
+    <p style="font-size:14px;color:#C0C0C0;text-decoration:underline">
+        央视新闻截图1
+    </p>
+</div>
 
-![央视新闻截图1](../images/2016-02-09-ZhongGuoDeWenHua-2.png "央视新闻截图1")
-
-![央视新闻截图2](../images/2016-02-09-ZhongGuoDeWenHua-3.png "央视新闻截图2")
-
-</center>
+<div align=center>
+    <img src="../images/2016-02-09-ZhongGuoDeWenHua-3.png"/>
+    <p style="font-size:14px;color:#C0C0C0;text-decoration:underline">
+        央视新闻截图2
+    </p>
+</div>
 
 我想起耍猴，耍猴人一鞭子，猴就跳，观众就叫好，有时候猴子不听话，就再来一鞭子，观众再叫好，猴子也不吭声了。这就是为什么，猴子种群的文化没有延续到今天，倒是人类，心心念念着猴，甚至把它排进了十二生肖。
 

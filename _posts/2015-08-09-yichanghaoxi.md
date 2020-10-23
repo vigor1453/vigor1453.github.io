@@ -12,11 +12,12 @@ excerpt: "围观的力量"
 
 最近几个月网上一直不太平，先是优衣库，然后htc，接着九眼桥，现在是yy。早上一起来，“yy直播出事”的消息就上了百度头条。点进去一看，是这样的：
 
-<center>
-
-![百度搜索的截图](../images/2015-08-09-yichanghaoxi-1.png "百度搜索的截图")
-
-</center>
+<div align=center>
+    <img src="../images/2015-08-09-yichanghaoxi-1.png"/>
+    <p style="font-size:14px;color:#C0C0C0;text-decoration:underline">
+        百度搜索的截图
+    </p>
+</div>
 
 上一次优衣库事件以后，上微博就像上黄色网站，现在上微博像逛窑子了。不仅是微博，百度知道也沦陷了。上知道搜索“yy直播出事”，二十页搜索结果，全是8月8日的问题。
 
