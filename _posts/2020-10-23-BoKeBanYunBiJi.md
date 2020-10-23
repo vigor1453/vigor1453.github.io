@@ -11,8 +11,7 @@ toc: true
 
 # 博客建立教程
 
-参考：
-https://lemonchann.github.io/create_blog_with_github_pages/
+参考：[博客教程](https://lemonchann.github.io/create_blog_with_github_pages/)
 
 # 添加图片和图片说明（居中显示）
 
@@ -59,7 +58,5 @@ written by {{ page.author }}
 
 # 使用 APlayer && MetingJS 嵌入音频
 
-参考：
-http://yangyingming.com/article/428/
-项目原Github地址：
-https://github.com/metowolf/MetingJS#option
+参考：[使用指南](http://yangyingming.com/article/428/)
+项目原Github地址：[项目原地址](https://github.com/metowolf/MetingJS#option)
