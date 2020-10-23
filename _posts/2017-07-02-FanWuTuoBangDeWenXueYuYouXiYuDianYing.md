@@ -13,7 +13,7 @@ toc: true
 
 1948年的时候，乔治奥威尔完成了《1984》。这是他的第二部小说，这位只活了47岁的作家一生只写了两部小说，第一部叫动物庄园。特朗普上台的时候，美国亚马逊上《1984》的销量暴涨了9500%。
 
-<div style="text-align: center">
+<div align=center>
     <img src="../images/2017-07-02-FanWuTuoBangDeWenXueYuYouXiYuDianYing-1.jpeg"/>
     <p style="font-size:14px;color:#C0C0C0;text-decoration:underline">
         1984早就被许多书评杂志列为一生必看的小说之一
