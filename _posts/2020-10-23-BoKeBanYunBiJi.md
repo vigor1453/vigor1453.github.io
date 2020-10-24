@@ -104,7 +104,7 @@ SimpleJekyllSearch({
 ---
 ---
 [
-  {% for post in site.posts %}
+  //{% for post in site.posts %}
     {
       "title"    : "{% if post.title != "" %}{{ post.title | escape }}{% else %}{{ post.excerpt | strip_html |  escape | strip }}{%endif%}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
@@ -115,7 +115,9 @@ SimpleJekyllSearch({
 ]
 ```
 
-问题仍然存在，最后的解决方案是：**把DOM放在Script之前，这样Script在getElementID的时候才找得到**。
+注意：**那一行注释是需要添加的，这里为了防止markdown把它识别为html才注释掉。**
+
+问题仍然存在，最后的解决方案是：**把DOM放在Script之前，这样Script在getElementID的时候才找得到。**
 
 问题解决。
 

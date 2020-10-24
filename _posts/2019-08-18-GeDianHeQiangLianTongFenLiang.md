@@ -68,6 +68,7 @@ $$tarjan(i,i)$$
 定理：
 
 对于所有的u的子节点v：
+
 $$
 \begin{cases}
 	u是割点, &if \  low[v]>=dep[u]\\
