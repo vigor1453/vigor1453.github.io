@@ -23,18 +23,22 @@ toc: true
 
 # 添加图片和图片说明（居中显示）
 
-    <div align=center>
+```html
+<div align=center>
     <img src="图片地址"/>
     <p style="font-size:14px;color:#C0C0C0;text-decoration:underline">
         图片说明
     </p>
-    </div>
+</div>
+``` 
 
 效果：
 
-<p style="font-size:14px;color:#C0C0C0;text-decoration:underline">
-    图片说明
-</p>
+<div align=center>
+    <p style="font-size:14px;color:#C0C0C0;text-decoration:underline">
+        图片说明
+    </p>
+</div>
 
 # Jekyll添加文章摘要和开启目录
 
@@ -75,3 +79,52 @@ written by {{ page.author }}
 # markdown公式显示不全
 
 参考：[如何采用MathJax](http://leohope.com/%E8%A7%A3%E9%97%AE%E9%A2%98/2017/09/08/page-with-latex/)
+
+# 报错：SimpleJekyllSearch --- You must specify a json
+
+首先参考这一个issue：[issue](https://github.com/christian-fei/Simple-Jekyll-Search/issues/36)，大概看出跟json格式有一定关系
+
+之后参考了这个项目的README：[项目地址](https://github.com/tigerhawkvok/Simple-Jekyll-Search)，里面有一段关于中间件的代码：
+
+```javascript
+SimpleJekyllSearch({
+  ...
+  templateMiddleware: function(prop, value, template){
+    if( prop === 'bar' ){
+      return value.replace(/^\//, '')
+    }
+  }
+  ...
+})
+```
+
+仍然没能解决问题，之后参考了一个commit：[commit地址](https://github.com/cse-iitb-wiki/cse-iitb-wiki.github.io/commit/9244aae6a0f450f32c49b4487ac2252dbf0aaae1)，解决的是与我一样的问题，把json格式修改成下面这样：
+
+```json
+---
+---
+[
+  {% for post in site.posts %}
+    {
+      "title"    : "{% if post.title != "" %}{{ post.title | escape }}{% else %}{{ post.excerpt | strip_html |  escape | strip }}{%endif%}",
+      "url"      : "{{ site.baseurl }}{{ post.url }}",
+      "category" : "{{ post.categories | join: ', '}}",
+      "date"     : "{{ post.date | date: "%B %e, %Y" }}"
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
+```
+
+问题仍然存在，最后的解决方案是：**把DOM放在Script之前，这样Script在getElementID的时候才找得到**。
+
+问题解决。
+
+# 文章标题重复
+
+主要是之前写过很多标题为“无题”的文章，虽然在`_post`目录下名字不一样，但是渲染之后的html会重名。
+
+目前的命名方法是在可能重复的标题后面后面再加上发布日期。
+
+# 代码块周围奇妙的滚动条
+
+参考：[如何去除不必要的滚动条](https://stackoom.com/question/3k4Ao/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E5%9C%A8Jekyll%E7%BD%91%E7%AB%99%E4%B8%8A%E7%9A%84markdown%E4%BB%A3%E7%A0%81%E5%9D%97%E5%91%A8%E5%9B%B4%E5%87%BA%E7%8E%B0%E5%8F%8C%E8%BE%B9%E6%A1%86)
