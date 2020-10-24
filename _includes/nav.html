@@ -15,12 +15,12 @@
     function testPage(str) {
       if(str === '/')
         return true;
+      console.log(str.substr(1, str.length - 2));
       var pat = /page[1-9][0-1]*/;
-      return pat.test(str.substr(0, str.length - 2));
+      return pat.test(str.substr(1, str.length - 2));
     }
   </script>
 
-  {% if testPage(page.url) %}
   <div class="navlist">
     <nav>
       {% for nav in site.navigation %}
@@ -32,24 +32,25 @@
       {% endfor %}
     </nav>
   </div>
-  {% end if %}
 
-  <div class="search-container">
-    <input type="text" id="search-input" placeholder="搜索博文" style="margin-top: 5%; margin-left: 5%; width: 90%;
-      height: 35px;
-      color: #333;
-      background-color: rgba(227,231,236,.2);
-      line-height: 35px;
-      padding:0px 16px;
-      border: 1px solid #c0c0c0;
-      font-size: 16px;
-      font-weight: bold;
-      border-radius: 17px;
-      outline: none;
-      box-sizing: border-box;
-      box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102,175,233,.6);">
-    <ul id="results-container"></ul>
-  </div>
+  {% if testPage(page.url) %}
+    <div class="search-container">
+      <input type="text" id="search-input" placeholder="搜索博文" style="margin-top: 5%; margin-left: 5%; width: 90%;
+        height: 35px;
+        color: #333;
+        background-color: rgba(227,231,236,.2);
+        line-height: 35px;
+        padding:0px 16px;
+        border: 1px solid #c0c0c0;
+        font-size: 16px;
+        font-weight: bold;
+        border-radius: 17px;
+        outline: none;
+        box-sizing: border-box;
+        box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102,175,233,.6);">
+      <ul id="results-container"></ul>
+    </div>
+  {% endif %}
 
   <div class="wrapper-footer-desktop">
     <footer class="footer">
