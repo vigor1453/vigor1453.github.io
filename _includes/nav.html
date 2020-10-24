@@ -11,17 +11,28 @@
 
   {{ page.url }}
 
+  <script>
+    function testPage(str) {
+      if(str === '/')
+        return true;
+      var pat = /page[1-9][0-1]*/;
+      return pat.test(str.substr(0, str.length - 2));
+    }
+  </script>
+
+  {% if testPage(page.url) %}
   <div class="navlist">
     <nav>
       {% for nav in site.navigation %}
       {% if nav.url contains 'http://' or nav.url contains 'https://' %}
-      <a href="{{ nav.url }}">{{ nav.name }}</a> <br><br>
+      <a href="{{ nav.url }}">{{ nav.name }}</a>
       {% else %}
-      <a href="{{ site.baseurl }}{{ nav.url }}">{{ nav.name }}</a> <br><br>
+      <a href="{{ site.baseurl }}{{ nav.url }}">{{ nav.name }}</a>
       {% endif %}
       {% endfor %}
     </nav>
   </div>
+  {% end if %}
 
   <div class="search-container">
     <input type="text" id="search-input" placeholder="搜索博文" style="margin-top: 5%; margin-left: 5%; width: 90%;
