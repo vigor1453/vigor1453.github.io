@@ -12,8 +12,8 @@ excerpt: "琐碎的tips"
     
     sc config i8042prt start= disabled
 
-U盘出现的一个问题
-错误0x800700ea:有更多数据可用
+U盘出现的一个问题：
+`错误0x800700ea:有更多数据可用`
 U盘的文件系统:FAT32
 将U盘的文件系统格式化为NTFS(注意提前备份好原有文件）
 
