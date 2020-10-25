@@ -139,5 +139,3 @@ SimpleJekyllSearch({
 # pdf显示
 
 采用插件jekyll-pdf-embed：[项目地址](https://github.com/MihajloNesic/jekyll-pdf-embed)
-
-{% pdf "/files/pdf_test.pdf" %}
