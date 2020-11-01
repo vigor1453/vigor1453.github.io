@@ -134,9 +134,9 @@ win10蓝牙在开始页面的齿轮处选择设备即可开启
 
 |作用|网址|
 |----|----|
-|pdf转word| https://smallpdf.com/cn/pdf-to-word |
-|在线代码高亮| http://www.planetb.ca/syntax-highlight-word |
-|在线Latex| https://zh.numberempire.com/latexequationeditor.php |
+|pdf转word| [网址](https://smallpdf.com/cn/pdf-to-word) |
+|在线代码高亮| [网址](http://www.planetb.ca/syntax-highlight-word) |
+|在线Latex| [网址](https://zh.numberempire.com/latexequationeditor.php) |
 
 **注意代码高亮复制出来的时候要带格式粘贴**
 
@@ -160,4 +160,4 @@ win10蓝牙在开始页面的齿轮处选择设备即可开启
 
 # C语言printf的对齐方法：
 
-https://blog.csdn.net/abcdu1/article/details/74926375/
+[网址](https://blog.csdn.net/abcdu1/article/details/74926375/)
