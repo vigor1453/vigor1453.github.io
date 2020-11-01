@@ -12,7 +12,7 @@ toc: true
 # TODO
 
 * [ ] 博文置顶
-* [ ] 内置pdf阅读器
+* [x] 内置pdf阅读器
 * [x] 修改搜索框
 * [ ] 字体修改
 * [ ] 404页面自定义
@@ -140,5 +140,13 @@ SimpleJekyllSearch({
 # pdf显示
 
 ~~采用插件jekyll-pdf-embed：[项目地址](https://github.com/MihajloNesic/jekyll-pdf-embed)~~
+
+使用以下代码即可：
+
+`\<embed src="文件路径" type="application/pdf" />`
+
+**注意去掉行首的反斜杠。**
+
+效果如下：
 
 <embed src="../files/pdf_test.pdf" type="application/pdf" />
