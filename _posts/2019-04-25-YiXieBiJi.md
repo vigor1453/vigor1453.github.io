@@ -6,18 +6,20 @@ tags: ["旧","技术"]
 comments: true
 author: oneman233
 excerpt: "琐碎的tips"
+toc: true
 ---
 
-键盘锁定：
+# 键盘锁定：
     
     sc config i8042prt start= disabled
 
-U盘出现的一个问题：
-`错误0x800700ea:有更多数据可用`
-U盘的文件系统:FAT32
-将U盘的文件系统格式化为NTFS(注意提前备份好原有文件）
+# U盘出现的一个问题：
 
-板子：
+    错误0x800700ea:有更多数据可用
+
+U盘的文件系统是FAT32，将U盘的文件系统格式化为NTFS即可解决(注意提前备份好原有文件）。
+
+# 板子：
 
 ```c++
 #include <bits/stdc++.h>
@@ -104,11 +106,13 @@ signed main() {
 }
 ```
 
-如何开启笔记本的蓝牙： win10蓝牙在开始页面的齿轮处选择设备即可开启
+# 如何开启笔记本的蓝牙：
 
-**尽量转成pdf再交付打印**
+win10蓝牙在开始页面的齿轮处选择设备即可开启
 
-wps调整行间距的方法：
+# 尽量转成pdf再交付打印
+
+# wps调整行间距的方法：
 
 <div align=center>
     <img src="../images/2019-04-25-YiXieBiJi-1.png"/>
@@ -117,27 +121,43 @@ wps调整行间距的方法：
     </p>
 </div>
 
-wps插入横线：插入-形状-线条
-wps打开网格线：视图-网格线（用于处理文档对齐）
-wps打勾：插入-符号-√
-wps在行首插入项目标记（就是一个原点或者序号）：右键-插入项目符号和编号
+# wps一些工具
 
-一些有用的网站：
-pdf转word： https://smallpdf.com/cn/pdf-to-word 
-在线代码高亮：http://www.planetb.ca/syntax-highlight-word
-在线Latex：https://zh.numberempire.com/latexequationeditor.php
+| 作用 | 操作方法 |
+|----|----|
+|插入横线|插入-形状-线条|
+|打开网格线|视图-网格线（用于处理文档对齐）|
+|打勾|插入-符号-√|
+|在行首插入项目标记（就是一个原点或者序号）|右键-插入项目符号和编号|
+
+# 一些有用的网站：
+
+|作用|网址|
+|----|----|
+|pdf转word| https://smallpdf.com/cn/pdf-to-word |
+|在线代码高亮| http://www.planetb.ca/syntax-highlight-word |
+|在线Latex| https://zh.numberempire.com/latexequationeditor.php |
+
 **注意代码高亮复制出来的时候要带格式粘贴**
 
-WPS转PDF报未定义书签的错：
+# WPS转PDF报未定义书签的错：
+
 新建的书签要右键更新域才可使用
 
-ctrl+z 撤销
-ctrl+y 恢复
-ctrl+x 剪切
+# 一些系统快捷键
 
-Casio如何转换进制：
+| 快捷键 | 作用 |
+| ---- | ---- |
+| ctrl+z | 撤销 |
+| ctrl+y | 恢复 |
+| ctrl+x | 剪切 |
+
+# Casio如何转换进制：
+
 1. 菜单选择基数
 2. shift加上log ln等按键转换进制
 3. 输入时用十进制，按下=后再获得结果
 
-C语言printf的对齐方法：https://blog.csdn.net/abcdu1/article/details/74926375/
+# C语言printf的对齐方法：
+
+https://blog.csdn.net/abcdu1/article/details/74926375/
