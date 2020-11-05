@@ -39,7 +39,7 @@ $$b*b^{-1}\equiv 1(mod \ p)$$
 
 注意只适用于$p$是质数且$a$不是$p$的倍数的情况：
 
-$$b^-1(mod \ p)\equiv b^{p-2}(mod \ p)$$
+$$b^{-1}(mod \ p)\equiv b^{p-2}(mod \ p)$$
 
 ## exgcd
 
