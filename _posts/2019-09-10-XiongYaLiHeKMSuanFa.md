@@ -64,9 +64,9 @@ $n$个男与$n$个女，一个男可能对多个女有好感，一个女也可�
     </p>
 </div>
 
-上图中$1-5$和$2-6$显然是一个匹配，但是$1-4$、$2-5$和$3-6$则是一个更大的匹配。
+上图中$1\rightarrow5$和$2\rightarrow6$显然是一个匹配，但是$1\rightarrow4$、$2\rightarrow5$和$3\rightarrow6$则是一个更大的匹配。
 
-对于匹配$1-5$和$2-6$来说，路径$4-1-5-2-6-3$是一个交错路径，而$1-4$、$2-5$和$3-6$构成了一个增广路径。
+对于匹配$1\rightarrow5$和$2\rightarrow6$来说，路径$4\rightarrow1\rightarrow5\rightarrow2\rightarrow6\rightarrow3$是一个交错路径，而$1\rightarrow4$、$2\rightarrow5$和$3\rightarrow6$构成了一个增广路径。
 
 这意味着，**对当前匹配每找到一个增广路径，就能增大匹配！**
 
