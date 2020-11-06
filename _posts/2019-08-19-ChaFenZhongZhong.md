@@ -2,7 +2,7 @@
 layout: post
 title: "差分种种"
 date: 2019-08-19
-tags: ["旧","技术"]
+tags: ["旧","算法"]
 comments: true
 author: oneman233
 excerpt: "秋后算账"

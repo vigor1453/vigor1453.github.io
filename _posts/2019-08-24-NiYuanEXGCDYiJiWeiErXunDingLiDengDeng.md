@@ -2,7 +2,7 @@
 layout: post
 title: "逆元、exgcd以及威尔逊定理等等"
 date: 2019-08-24
-tags: ["旧","技术"]
+tags: ["旧","算法"]
 comments: true
 author: oneman233
 excerpt: "(a/b)%c以及ax+by=c"

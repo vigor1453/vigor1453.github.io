@@ -2,7 +2,7 @@
 layout: post
 title: "欧拉函数"
 date: 2019-08-24
-tags: ["旧","技术"]
+tags: ["旧","算法"]
 comments: true
 author: oneman233
 excerpt: "有很多好性质"

@@ -2,7 +2,7 @@
 layout: post
 title: "单调队列"
 date: 2019-08-18
-tags: ["旧","技术"]
+tags: ["旧","算法"]
 comments: true
 author: oneman233
 excerpt: "总是单调递增或递减"

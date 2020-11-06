@@ -2,7 +2,7 @@
 layout: post
 title: "树链剖分"
 date: 2019-09-02
-tags: ["旧","技术"]
+tags: ["旧","算法"]
 comments: true
 author: oneman233
 excerpt: "砍树"

@@ -2,7 +2,7 @@
 layout: post
 title: "并查集"
 date: 2019-08-20
-tags: ["旧","技术"]
+tags: ["旧","算法"]
 comments: true
 author: oneman233
 excerpt: "我的父亲的父亲是我的爷爷"

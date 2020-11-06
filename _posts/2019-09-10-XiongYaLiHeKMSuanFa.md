@@ -2,7 +2,7 @@
 layout: post
 title: "匈牙利和KM算法"
 date: 2019-09-10
-tags: ["旧","技术"]
+tags: ["旧","算法"]
 comments: true
 author: oneman233
 excerpt: "二分图"
