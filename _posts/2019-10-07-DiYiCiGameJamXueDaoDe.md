@@ -9,13 +9,17 @@ excerpt: "有关Unity"
 ---
 
 * unity基本组成元素是sprite
+    
     添加图片的时候已经默认添加了sprite
+    
     可以直接在屏幕右侧添加组件
 
 * rigid body是刚体组件，可以在gravity scale里按需要调整重力大小
+    
     防止在z轴上的旋转可以在constraints里勾选freeze rotation
 
 * Input类的GetAxis方法可以获取当前位置，传入参数是字符串，分别有"Horizontal"和"Vertical"
+    
     调用Vector2类的第一个和第二个元素可以使用.x和.y
 
 * 三种update方式的区别：
@@ -49,6 +53,7 @@ excerpt: "有关Unity"
     ```
 
 * 勾选"IsTrigger"属性表示该碰撞体用于触发事件，并将被物理引擎所忽略。
+    
     意味着，子弹将穿过触碰到的对象，而不会阻碍对象的移动，触碰的时候将会引发"OnTriggerEnter2D"事件。
 
 * Edit->Project Settings->Editor，将Default Behavior Mode设置成2D模式，这样拖入工程的图片会自动变换为Sprite类型。
@@ -89,16 +94,21 @@ excerpt: "有关Unity"
 * 2D转3D有可能导致物体消失。取决于摄像机位置。
 
 * 建立prefab只需要把hierarchy里面的物体拖动回来即可。此时prefab默认带好了图片，创建方式如下：
+    
     `Instantiate(Resources.Load("Prefab/bullet"));`
+
     重载的时候可以带上初始位置和旋转角度:
+
     `Instantiate(Resources.Load("Prefab/bullet"), player_pos, rotation);`
+
     玩家位置需要实时获取，旋转角度默认无参就可以。
 
 * 获取玩家位置需要使用transform，如下：
-    ``Vector3 player_pos = GameObject.Find("player").transform.position;`
+    `Vector3 player_pos = GameObject.Find("player").transform.position;`
 
 * 控制上下左右移动：
     `transform.localPosition = Vector3.MoveTowards(transform.localPosition, transform.localPosition + dif, 0.5f*Time.time);`
+
     最后一个参数是最大移动距离。
 
 * 获取指定gameObject的方式
@@ -112,8 +122,11 @@ excerpt: "有关Unity"
     一定要把所有场景加入工程才可以运作。
 
 * 把脚本绑定到画布上，并且在画布的inspector中设置各个按钮变量对应的是哪个按钮。
+    
     此外还需要加入Event System！！！！！
+
     按钮需要box collider，尺寸需要手动修改。
+
     按钮还需要在onclick当中设置调用哪个函数，同时左下角是绑定到canva上面使用的，此时可以直接调用canvas上挂载的脚本的public函数。
 
 * 可以改变canvas的渲染方式为摄像机渲染并选中当前场景的摄像机，这样就能在场景出现时才制作canvas。
