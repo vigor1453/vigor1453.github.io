@@ -2,7 +2,7 @@
 layout: post
 title: "我心中的爱情"
 date: 2015-11-01
-tags: ["旧","杂谈"]
+tags: ["杂谈"]
 comments: true
 author: Mark-Yu
 excerpt: "MarkYu的爱情观"

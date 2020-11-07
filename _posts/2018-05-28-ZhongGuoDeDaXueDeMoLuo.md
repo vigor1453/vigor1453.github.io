@@ -2,7 +2,7 @@
 layout: post
 title: "中国的大学的没落"
 date: 2018-05-28
-tags: ["旧","杂谈"]
+tags: ["杂谈"]
 comments: true
 author: oneman233
 excerpt: "哀其不幸，怒其不争"

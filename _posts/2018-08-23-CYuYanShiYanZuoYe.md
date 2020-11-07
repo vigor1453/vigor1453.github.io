@@ -2,7 +2,7 @@
 layout: post
 title: "C语言实验作业"
 date: 2018-08-23
-tags: ["旧","技术"]
+tags: ["技术"]
 comments: true
 author: oneman233
 excerpt: "实验报告"

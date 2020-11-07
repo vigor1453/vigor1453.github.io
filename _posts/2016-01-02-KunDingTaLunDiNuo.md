@@ -2,7 +2,7 @@
 layout: post
 title: "昆丁塔伦蒂诺"
 date: 2016-01-02
-tags: ["旧","杂谈"]
+tags: ["杂谈"]
 comments: true
 author: oneman233
 excerpt: "一位艺术家"

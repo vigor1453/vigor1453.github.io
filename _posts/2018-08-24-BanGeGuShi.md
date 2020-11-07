@@ -2,7 +2,7 @@
 layout: post
 title: "半个故事"
 date: 2018-08-24
-tags: ["旧","幻想"]
+tags: ["幻想"]
 comments: true
 author: oneman233
 excerpt: "一场浪漫主义实验"

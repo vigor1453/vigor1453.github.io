@@ -2,7 +2,7 @@
 layout: post
 title: "LCA两种搞法"
 date: 2019-08-18
-tags: ["旧","算法"]
+tags: ["算法"]
 comments: true
 author: oneman233
 excerpt: "找爸爸"

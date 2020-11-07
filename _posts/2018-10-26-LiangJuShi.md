@@ -2,7 +2,7 @@
 layout: post
 title: "两句诗"
 date: 2018-10-26
-tags: ["旧","杂谈"]
+tags: ["杂谈"]
 comments: true
 author: oneman233
 excerpt: "一千年前的理想主义"

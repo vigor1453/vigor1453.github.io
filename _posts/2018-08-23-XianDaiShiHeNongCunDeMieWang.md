@@ -2,7 +2,7 @@
 layout: post
 title: "现代诗和农村的灭亡"
 date: 2018-08-23
-tags: ["旧","杂谈"]
+tags: ["杂谈"]
 comments: true
 author: oneman233
 excerpt: "悲歌"

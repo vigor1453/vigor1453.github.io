@@ -2,7 +2,7 @@
 layout: post
 title: "大版与西安"
 date: 2019-02-24
-tags: ["旧","杂谈"]
+tags: ["杂谈"]
 comments: true
 author: oneman233
 excerpt: "游记"

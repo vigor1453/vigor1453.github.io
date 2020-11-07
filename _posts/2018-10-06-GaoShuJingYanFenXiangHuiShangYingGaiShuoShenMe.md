@@ -2,7 +2,7 @@
 layout: post
 title: "高数经验分享会上应该说什么"
 date: 2018-10-06
-tags: ["旧","杂谈"]
+tags: ["杂谈"]
 comments: true
 author: oneman233
 excerpt: "有关数学"

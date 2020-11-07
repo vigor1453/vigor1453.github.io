@@ -2,7 +2,7 @@
 layout: post
 title: "音乐，游戏"
 date: 2015-11-14
-tags: ["旧","杂谈"]
+tags: ["杂谈"]
 comments: true
 author: oneman233
 excerpt: "一首歌和一些感想"

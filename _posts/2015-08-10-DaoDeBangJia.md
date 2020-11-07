@@ -2,7 +2,7 @@
 layout: post
 title: "道德绑架"
 date: 2015-08-10
-tags: ["旧","杂谈"]
+tags: ["杂谈"]
 comments: true
 author: Mark-Yu
 excerpt: "MarkYu的想法"

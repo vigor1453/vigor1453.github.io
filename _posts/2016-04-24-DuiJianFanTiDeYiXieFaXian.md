@@ -2,7 +2,7 @@
 layout: post
 title: "对简繁体的一些发现"
 date: 2016-04-24
-tags: ["旧","杂谈"]
+tags: ["杂谈"]
 comments: true
 author: oneman233
 excerpt: "课余娱乐"

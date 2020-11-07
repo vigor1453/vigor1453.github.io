@@ -2,7 +2,7 @@
 layout: post
 title: "伟大的夜幕革命"
 date: 2018-10-08
-tags: ["旧","幻想"]
+tags: ["幻想"]
 comments: true
 author: oneman233
 excerpt: "与无聊作战"

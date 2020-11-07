@@ -2,7 +2,7 @@
 layout: post
 title: "割点和强连通分量"
 date: 2019-08-18
-tags: ["旧","算法"]
+tags: ["算法"]
 comments: true
 author: oneman233
 excerpt: "如何坍缩"

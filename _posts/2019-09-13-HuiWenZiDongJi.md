@@ -2,7 +2,7 @@
 layout: post
 title: "回文自动机"
 date: 2019-09-13
-tags: ["旧","算法"]
+tags: ["算法"]
 comments: true
 author: oneman233
 excerpt: "马拉树"

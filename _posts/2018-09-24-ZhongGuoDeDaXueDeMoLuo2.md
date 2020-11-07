@@ -2,7 +2,7 @@
 layout: post
 title: "中国的大学的没落2.0"
 date: 2018-09-24
-tags: ["旧","杂谈"]
+tags: ["杂谈"]
 comments: true
 author: oneman233
 excerpt: "有关我们的妄自菲薄"

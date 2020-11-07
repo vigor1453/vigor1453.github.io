@@ -2,7 +2,7 @@
 layout: post
 title: "起跑线与考试与蝴蝶效应"
 date: 2015-11-16
-tags: ["旧","杂谈"]
+tags: ["杂谈"]
 comments: true
 author: oneman233
 excerpt: "不能输在起跑线"

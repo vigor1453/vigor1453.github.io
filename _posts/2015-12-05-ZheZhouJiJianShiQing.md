@@ -2,7 +2,7 @@
 layout: post
 title: "这周几件事情"
 date: 2015-12-05
-tags: ["旧","杂谈"]
+tags: ["杂谈"]
 comments: true
 author: oneman233
 excerpt: "流水账"

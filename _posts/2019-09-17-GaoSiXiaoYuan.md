@@ -2,7 +2,7 @@
 layout: post
 title: "高斯消元"
 date: 2019-09-17
-tags: ["旧","算法"]
+tags: ["算法"]
 comments: true
 author: oneman233
 excerpt: "矩阵和三角"

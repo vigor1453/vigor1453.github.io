@@ -2,7 +2,7 @@
 layout: post
 title: "助听器"
 date: 2016-03-05
-tags: ["旧","杂谈"]
+tags: ["杂谈"]
 comments: true
 author: oneman233
 excerpt: "谅解备忘录"

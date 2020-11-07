@@ -2,7 +2,7 @@
 layout: post
 title: "中国的骂人史"
 date: 2015-12-26
-tags: ["旧","杂谈"]
+tags: ["杂谈"]
 comments: true
 author: oneman233
 excerpt: "也许是不堪回首的历史"

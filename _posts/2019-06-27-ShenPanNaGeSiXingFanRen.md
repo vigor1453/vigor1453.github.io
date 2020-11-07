@@ -2,7 +2,7 @@
 layout: post
 title: "审判那个死刑犯人"
 date: 2019-06-27
-tags: ["旧","杂谈"]
+tags: ["杂谈"]
 comments: true
 author: oneman233
 excerpt: "就地枪决"

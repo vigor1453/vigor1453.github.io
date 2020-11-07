@@ -2,7 +2,7 @@
 layout: post
 title: "毛概论文2.0"
 date: 2018-10-16
-tags: ["旧","杂谈"]
+tags: ["杂谈"]
 comments: true
 author: oneman233
 excerpt: "关于法律"

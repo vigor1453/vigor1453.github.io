@@ -2,7 +2,7 @@
 layout: post
 title: "最后一道战壕"
 date: 2018-09-16
-tags: ["旧","幻想"]
+tags: ["幻想"]
 comments: true
 author: oneman233
 excerpt: "战争结束的前一晚"

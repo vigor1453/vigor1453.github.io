@@ -2,7 +2,7 @@
 layout: post
 title: "在长安"
 date: 2017-08-02
-tags: ["旧","幻想"]
+tags: ["幻想"]
 comments: true
 author: oneman233
 excerpt: "武侠恋爱故事"

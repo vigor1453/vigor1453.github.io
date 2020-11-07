@@ -2,7 +2,7 @@
 layout: post
 title: "链式前向星和单源最短路两种"
 date: 2019-08-20
-tags: ["旧","算法"]
+tags: ["算法"]
 comments: true
 author: oneman233
 excerpt: "如何记下地图并且以最快速度回家"

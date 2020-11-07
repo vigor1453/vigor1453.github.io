@@ -2,7 +2,7 @@
 layout: post
 title: "摩尔庄园"
 date: 2015-11-07
-tags: ["旧","杂谈"]
+tags: ["杂谈"]
 comments: true
 author: oneman233
 excerpt: "时代的眼泪"

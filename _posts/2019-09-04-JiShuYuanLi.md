@@ -2,7 +2,7 @@
 layout: post
 title: "计数原理"
 date: 2019-09-04
-tags: ["旧","算法"]
+tags: ["算法"]
 comments: true
 author: oneman233
 excerpt: "球和盒子的各种故事"

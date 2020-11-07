@@ -2,7 +2,7 @@
 layout: post
 title: "输液时乱写的小说"
 date: 2016-05-04
-tags: ["旧","幻想"]
+tags: ["幻想"]
 comments: true
 author: oneman233
 excerpt: "为了铭记输液"

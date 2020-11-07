@@ -2,7 +2,7 @@
 layout: post
 title: "kmp和exkmp"
 date: 2019-08-22
-tags: ["旧","算法"]
+tags: ["算法"]
 comments: true
 author: oneman233
 excerpt: "必要时可以使用string的find()函数"

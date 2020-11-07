@@ -2,7 +2,7 @@
 layout: post
 title: "毛概论文3.0"
 date: 2018-10-30
-tags: ["旧","杂谈"]
+tags: ["杂谈"]
 comments: true
 author: oneman233
 excerpt: "宗教美国"

@@ -2,7 +2,7 @@
 layout: post
 title: "AC自动机"
 date: 2019-08-22
-tags: ["旧","算法"]
+tags: ["算法"]
 comments: true
 author: oneman233
 excerpt: "多模式串匹配的经典模型"

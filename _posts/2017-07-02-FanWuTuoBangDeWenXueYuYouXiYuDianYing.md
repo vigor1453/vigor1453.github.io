@@ -2,7 +2,7 @@
 layout: post
 title: "反乌托邦的文学与游戏与电影"
 date: 2017-07-02
-tags: ["旧","读后感和玩后感"]
+tags: ["读后感和玩后感"]
 comments: true
 author: oneman233
 excerpt: "大杂烩"

@@ -2,7 +2,7 @@
 layout: post
 title: "中国的文化"
 date: 2016-02-09
-tags: ["旧","杂谈"]
+tags: ["杂谈"]
 comments: true
 author: oneman233
 excerpt: "下乡见闻"

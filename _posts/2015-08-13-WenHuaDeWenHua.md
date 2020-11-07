@@ -2,7 +2,7 @@
 layout: post
 title: "文华的文化"
 date: 2015-08-13
-tags: ["旧","杂谈"]
+tags: ["杂谈"]
 comments: true
 author: oneman233
 excerpt: "投票和民主"

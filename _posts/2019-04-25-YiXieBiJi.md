@@ -2,7 +2,7 @@
 layout: post
 title: "一些笔记"
 date: 2019-04-25
-tags: ["旧","技术"]
+tags: ["技术"]
 comments: true
 author: oneman233
 excerpt: "琐碎的tips"

@@ -2,7 +2,7 @@
 layout: post
 title: "第一次的C语言"
 date: 2018-07-12
-tags: ["旧","技术"]
+tags: ["技术"]
 comments: true
 author: oneman233
 excerpt: "C语言入门"

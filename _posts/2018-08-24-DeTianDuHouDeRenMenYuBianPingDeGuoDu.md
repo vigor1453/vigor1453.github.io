@@ -2,7 +2,7 @@
 layout: post
 title: "得天独厚的人们与扁平的国度"
 date: 2018-08-24
-tags: ["旧","杂谈"]
+tags: ["杂谈"]
 comments: true
 author: oneman233
 excerpt: "拜金的漩涡"

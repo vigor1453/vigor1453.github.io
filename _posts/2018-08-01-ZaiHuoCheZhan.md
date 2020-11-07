@@ -2,7 +2,7 @@
 layout: post
 title: "在火车站"
 date: 2018-08-01
-tags: ["旧","幻想"]
+tags: ["幻想"]
 comments: true
 author: oneman233
 excerpt: "启蒙小说"

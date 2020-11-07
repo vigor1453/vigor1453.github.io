@@ -2,7 +2,7 @@
 layout: post
 title: "新的开始"
 date: 2016-01-01
-tags: ["旧","杂谈"]
+tags: ["杂谈"]
 comments: true
 author: Mark-Yu
 excerpt: "MarkYu的年初总结"

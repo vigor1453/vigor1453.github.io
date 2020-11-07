@@ -2,7 +2,7 @@
 layout: post
 title: "性与精神疾病"
 date: 2018-10-09
-tags: ["旧","杂谈"]
+tags: ["杂谈"]
 comments: true
 author: oneman233
 excerpt: "掩耳盗铃"

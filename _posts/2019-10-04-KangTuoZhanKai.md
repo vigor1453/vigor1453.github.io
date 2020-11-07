@@ -2,7 +2,7 @@
 layout: post
 title: "康托展开"
 date: 2019-09-19
-tags: ["旧","算法"]
+tags: ["算法"]
 comments: true
 author: oneman233
 excerpt: "全排列的字典序"

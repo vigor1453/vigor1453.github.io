@@ -2,7 +2,7 @@
 layout: post
 title: "星火酒吧"
 date: 2018-03-11
-tags: ["旧","幻想"]
+tags: ["幻想"]
 comments: true
 author: oneman233
 excerpt: "让他相信他还活着"

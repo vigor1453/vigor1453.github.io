@@ -2,7 +2,7 @@
 layout: post
 title: "土耳其先生"
 date: 2016-04-16
-tags: ["旧","杂谈"]
+tags: ["杂谈"]
 comments: true
 author: oneman233
 excerpt: "第一次网络攻防"

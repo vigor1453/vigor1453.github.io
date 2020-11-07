@@ -2,7 +2,7 @@
 layout: post
 title: "荣誉至高无上"
 date: 2015-08-15
-tags: ["旧","杂谈"]
+tags: ["杂谈"]
 comments: true
 author: Mark-Yu
 excerpt: "MarkYu的思考：为什么我们要做出牺牲"

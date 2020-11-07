@@ -2,7 +2,7 @@
 layout: post
 title: "魏老板"
 date: 2015-10-05
-tags: ["旧","杂谈"]
+tags: ["杂谈"]
 comments: true
 author: oneman233
 excerpt: "美食家和旅行家"

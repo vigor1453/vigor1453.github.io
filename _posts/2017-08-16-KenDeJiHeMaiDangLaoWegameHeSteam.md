@@ -2,7 +2,7 @@
 layout: post
 title: "肯德基和麦当劳，wegame和steam"
 date: 2017-08-16
-tags: ["旧","杂谈"]
+tags: ["杂谈"]
 comments: true
 author: oneman233
 excerpt: "本地化的较量"

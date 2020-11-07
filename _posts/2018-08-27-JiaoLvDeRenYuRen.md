@@ -2,7 +2,7 @@
 layout: post
 title: "焦虑的人与人"
 date: 2018-08-27
-tags: ["旧","杂谈"]
+tags: ["杂谈"]
 comments: true
 author: oneman233
 excerpt: "行色匆匆"

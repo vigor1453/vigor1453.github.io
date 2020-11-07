@@ -2,7 +2,7 @@
 layout: post
 title: "受伤这几天"
 date: 2015-11-03
-tags: ["旧","杂谈"]
+tags: ["杂谈"]
 comments: true
 author: oneman233
 excerpt: "暂时是残疾人"

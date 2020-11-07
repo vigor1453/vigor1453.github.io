@@ -2,7 +2,7 @@
 layout: post
 title: "This Week And Next Week"
 date: 2015-10-11
-tags: ["旧","杂谈"]
+tags: ["杂谈"]
 comments: true
 author: oneman233
 excerpt: "流水账"

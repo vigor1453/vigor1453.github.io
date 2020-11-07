@@ -2,7 +2,7 @@
 layout: post
 title: "连坐法与民主"
 date: 2015-11-28
-tags: ["旧","杂谈"]
+tags: ["杂谈"]
 comments: true
 author: oneman233
 excerpt: "秦朝那些事儿"

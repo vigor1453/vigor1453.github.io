@@ -2,7 +2,7 @@
 layout: post
 title: "失眠症"
 date: 2018-09-15
-tags: ["旧","幻想"]
+tags: ["幻想"]
 comments: true
 author: oneman233
 excerpt: "一切都不合理"

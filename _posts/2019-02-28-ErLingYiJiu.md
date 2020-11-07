@@ -2,7 +2,7 @@
 layout: post
 title: "二零一九"
 date: 2019-02-28
-tags: ["旧","杂谈"]
+tags: ["杂谈"]
 comments: true
 author: oneman233
 excerpt: "回家"

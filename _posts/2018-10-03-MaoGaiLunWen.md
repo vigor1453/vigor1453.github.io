@@ -2,7 +2,7 @@
 layout: post
 title: "毛概论文"
 date: 2018-10-03
-tags: ["旧","杂谈"]
+tags: ["杂谈"]
 comments: true
 author: oneman233
 excerpt: "怀念过去的麻醉剂"

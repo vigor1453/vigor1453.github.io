@@ -2,7 +2,7 @@
 layout: post
 title: "数论分块和取余的本质"
 date: 2019-09-16
-tags: ["旧","算法"]
+tags: ["算法"]
 comments: true
 author: oneman233
 excerpt: "把数字切细碎点"

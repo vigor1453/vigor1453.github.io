@@ -2,7 +2,7 @@
 layout: post
 title: "宇航员"
 date: 2018-09-07
-tags: ["旧","幻想"]
+tags: ["幻想"]
 comments: true
 author: oneman233
 excerpt: "人类的最后一部小说"

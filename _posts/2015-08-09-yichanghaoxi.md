@@ -2,7 +2,7 @@
 layout: post
 title: "一场好戏"
 date: 2015-08-09
-tags: ["旧","杂谈"]
+tags: ["杂谈"]
 comments: true
 author: oneman233
 excerpt: "围观的力量"
