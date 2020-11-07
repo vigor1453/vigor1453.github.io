@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "康托展开"
-date: 2019-09-19
+date: 2019-10-04
 tags: ["算法"]
 comments: true
 author: oneman233
