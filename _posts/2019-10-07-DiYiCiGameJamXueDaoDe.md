@@ -104,6 +104,7 @@ excerpt: "有关Unity"
     玩家位置需要实时获取，旋转角度默认无参就可以。
 
 * 获取玩家位置需要使用transform，如下：
+    
     `Vector3 player_pos = GameObject.Find("player").transform.position;`
 
 * 控制上下左右移动：
