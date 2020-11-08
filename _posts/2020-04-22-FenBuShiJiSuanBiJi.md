@@ -252,4 +252,4 @@ excerpt: "基于阿里云"
 
 # 期末复习笔记
 
-<embed src="../files/分布式计算大总结.pdf" type="application/pdf" />
+<embed src="../files/分布式计算大总结.pdf" type="application/pdf" width="500" height="375" />
