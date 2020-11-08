@@ -149,4 +149,4 @@ SimpleJekyllSearch({
 
 效果如下：
 
-<embed src="../files/pdf_test.pdf" type="application/pdf" width="500" height="375" />
+<embed src="../files/pdf_test.pdf" type="application/pdf" width="1000" height="500" />
