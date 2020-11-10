@@ -9,6 +9,10 @@ excerpt: "琐碎的tips"
 toc: true
 ---
 
+# 在线代码高亮
+
+[地址](http://www.planetb.ca/syntax-highlight-word)
+
 # 键盘锁定：
     
     sc config i8042prt start= disabled
