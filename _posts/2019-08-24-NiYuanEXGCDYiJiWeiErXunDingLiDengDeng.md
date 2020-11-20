@@ -66,7 +66,7 @@ void exgcd(int a,int b,int &x,int &y) {
 $$
 \begin{aligned}
     &a,b\in Z_+ \\
-    &\exist x,y, \ ax+by=c\iff gcd(a,b)|c
+    &\exist \ x,y, \ ax+by=c\iff gcd(a,b)|c
 \end{aligned}
 $$
 
