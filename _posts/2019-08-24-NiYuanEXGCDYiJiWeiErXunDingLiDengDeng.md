@@ -61,7 +61,7 @@ void exgcd(int a,int b,int &x,int &y) {
 
 **贝祖定理：**
 
-对于给定的正整数$a$、$b$，方程$a*x+b*y=c$有解的充要条件为：$c$是$gcd(a,b)$的整数倍。
+定理描述如下：
 
 $$
 \begin{aligned}
