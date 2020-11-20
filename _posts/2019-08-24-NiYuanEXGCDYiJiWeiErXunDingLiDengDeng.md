@@ -63,6 +63,13 @@ void exgcd(int a,int b,int &x,int &y) {
 
 对于给定的正整数$a$、$b$，方程$a*x+b*y=c$有解的充要条件为：$c$是$gcd(a,b)$的整数倍。
 
+$$
+\begin{aligned}
+    &a,b\in Z_+ \\
+    &\exist x,y, \ ax+by=c\iff gcd(a,b)|c
+\end{aligned}
+$$
+
 实际上观察：
 
 $$a*x\equiv 1(mod \ p)$$
