@@ -66,7 +66,7 @@ void exgcd(int a,int b,int &x,int &y) {
 $$
 \begin{aligned}
     &a,b\in Z_+ \\
-    &\exist \ x,y, \ ax+by=c\iff gcd(a,b)|c
+    &exist \ x,y, \ ax+by=c\iff gcd(a,b)|c
 \end{aligned}
 $$
 
@@ -129,9 +129,11 @@ $$k*i*i^{-1}*r^{-1}+r*i^{-1}*r^{-1}\equiv 0(mod \ p)$$
 注意到：
 
 $$
-i*i^{-1}\equiv 1(mod \ p)
-\\
-r*r^{-1}\equiv 1(mod \ p)
+\begin{aligned}
+    &i*i^{-1}\equiv 1(mod \ p)
+    \\
+    &r*r^{-1}\equiv 1(mod \ p)
+\end{aligned}
 $$
 
 得到：
