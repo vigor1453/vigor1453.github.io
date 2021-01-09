@@ -12,7 +12,7 @@ permalink: /about/
 
 参与过一些算法比赛（C++），您可以在[这里](https://www.cnblogs.com/oneman233/)找到我写的题解
 
-写过一些游戏评测，写过一些小说，曾经参加过CIGA组织的GameJam上海
+写过一些游戏评测，写过一些小说，曾经参加过CIGA组织的GameJam上海，在CDPR上海实习过一个半月
 
 英语口语还凑合，做过志愿翻译
 
