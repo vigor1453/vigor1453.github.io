@@ -319,5 +319,5 @@ python /home/pi/temperature.py
 LED灯和传感器连接后实物图如下：
 
 <div align=center>
-    <img src="../images/2021-05-03-ShuMeiPaiShiYongZhiNan-7.png"/>
+    <img src="../images/2021-05-03-ShuMeiPaiShiYongZhiNan-7.jpg"/>
 </div>

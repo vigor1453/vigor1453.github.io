@@ -141,12 +141,3 @@ $$
     </p>
 </div>
 ```
-
-效果：
-
-<div align=center>
-    <img src="图片路径"/>
-    <p style="font-size:14px;color:#C0C0C0;text-decoration:underline">
-        图片注释
-    </p>
-</div>
