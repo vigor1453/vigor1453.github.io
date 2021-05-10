@@ -13,11 +13,11 @@ toc: true
 
 [地址](http://www.planetb.ca/syntax-highlight-word)
 
-# 键盘锁定：
+# 键盘锁定
     
     sc config i8042prt start= disabled
 
-# U盘出现的一个问题：
+# U盘出现的一个问题
 
     错误0x800700ea:有更多数据可用
 
@@ -25,83 +25,57 @@ U盘的文件系统是FAT32，将U盘的文件系统格式化为NTFS即可解决
 
 # 板子：
 
+编译命令：
+
+```
+-std=c++11
+```
+
 ```c++
 #include <bits/stdc++.h>
 #define int long long
-#define sc(a) scanf("%lld",&a)
-#define pr(a) printf("%lld",a)
 #define re(i,a,b) for(int i=a;i<=b;++i)
 #define fo(i,a,b) for(int i=a;i<b;++i)
 #define rre(i,a,b) for(int i=a;i>=b;--i)
-#define ech(i,a) for(auto i:a)
 #define all(a) a.begin(),a.end()
-#define mkp make_pair
-#define st first
-#define nd second
-#define rt front
-#define bk back
-#define pub(a) push_back(a)
+#define F first
+#define S second
+#define pub push_back
 #define pob pop_back
-#define puf(a) push_front(a)
+#define puf push_front
 #define pof pop_front
-#define mm0(a) memset(a,0,sizeof(a))
-#define mmmx(a) memset(a,0x3f3f,sizeof(a))
-#define mmmn(a) memset(a,-0x3f3f,sizeof(a))
-#define bug cout<<"BUG"<<endl
-#define yes cout<<"Yes"<<endl
-#define no cout<<"No"<<endl
-#define FAST ios_base::sync_with_stdio(0);cin.tie(0),cout.tie(0)
+#define nmsl cout<<"NMSL\n"
+#define yes cout<<"Yes\n"
+#define no cout<<"No\n"
+#define FAST ios_base::sync_with_stdio(0);cin.tie(0),cout.tie(0);
 #define endl '\n'
-#define lb lower_bound
+#define P pair
+#define V vector
 using namespace std;
-typedef double db;
-typedef pair<int,int> pii;
-typedef vector<int> vi;
-typedef vector<pii> vp;
-typedef map<int,int> mpii;
-typedef map<pii,int> mppi;
-typedef map<int,pii> mpip;
-typedef priority_queue<int> mxpi;
-typedef priority_queue<int,vi,greater<int>> mnpi;
-typedef priority_queue<pii> mxpp;
-typedef priority_queue<pii,vp,greater<pii>> mnpp;
-const int maxn=500005;
+typedef priority_queue<int> mxq_i;
+typedef priority_queue<int,V<int>,greater<int> > mnq_i;
+typedef priority_queue<P<int,int> > mxq_p;
+typedef priority_queue<P<int,int>,V<P<int,int> >,greater<P<int,int> > > mnq_p;
+int read(){char ch=getchar();int s=0,w=1;while(ch<48||ch>57){if(ch=='-')w=-1;ch=getchar();}while(ch>=48&&ch<=57){s=(s<<1)+(s<<3)+ch-48;ch=getchar();}return s*w;}
+void write(int x){if(x<0)putchar('-'),x=-x;if(x>9)write(x/10);putchar(x%10+48);}
+
+const int maxn=1000005;
 const int inf=0x3f3f3f3f3f3f3f3f;
-const db eps=1e-10;
-const db pi=acos(-1);
-int l2(int x){return x&-x;}
-int mmax(int a,int b,int c){return max(max(a,b),c);}
-int mmin(int a,int b,int c){return min(min(a,b),c);}
-int count2(int x){return __builtin_popcountll(x);}
-int ll(int p){return p<<1;}
-int rr(int p){return p<<1|1;}
-int mm(int l,int r){return (l+r)/2;}
-int lg(int x){if(x==0) return 1;return (int)log2(x)+1;}
-bool smeq(db a,db b){if(a<b||fabs(a-b)<=eps)return true;return false;}
-bool bgeq(db a,db b){if(a>b||fabs(a-b)<=eps)return true;return false;}
-bool eq(db a,db b){if(fabs(a-b)<eps) return 1;return 0;}
-db len(db a,db b,db c,db d){return sqrt((a-c)*(a-c)+(b-d)*(b-d));}
-int gcd(int x,int y){return __gcd(x,y);}
-int lcm(int x,int y){return x*y/__gcd(x,y);}
-bool isp(int x){if(x==1)return false;if(x==2)return true;for(int i=2;i*i<=x;++i)if(x%i==0)return false;return true;}
-int qpow(int a,int b,int mod){int tmp=a%mod,ans=1;while(b){if(b&1) ans=(ans*tmp)%mod;tmp=(tmp*tmp)%mod;b>>=1;}return ans;}
-inline int read(){char ch=getchar();int s=0,w=1;while(ch<48||ch>57){if(ch=='-')w=-1;ch=getchar();}while(ch>=48&&ch<=57){s=(s<<1)+(s<<3)+ch-48;ch=getchar();}return s*w;}
-inline void write(int x){if(x<0)putchar('-'),x=-x;if(x>9)write(x/10);putchar(x%10+48);}
 
 signed main() {
-    FAST;
+    FAST
 
     return 0;
 }
 ```
 
-# 如何开启笔记本的蓝牙：
+# 如何开启笔记本的蓝牙
 
 win10蓝牙在开始页面的齿轮处选择设备即可开启
 
 # 尽量转成pdf再交付打印
 
-# wps调整行间距的方法：
+# wps调整行间距的方法
 
 <div align=center>
     <img src="../images/2019-04-25-YiXieBiJi-1.png"/>
@@ -119,7 +93,7 @@ win10蓝牙在开始页面的齿轮处选择设备即可开启
 |打勾|插入-符号-√|
 |在行首插入项目标记（就是一个原点或者序号）|右键-插入项目符号和编号|
 
-# 一些有用的网站：
+# 一些有用的网站
 
 |作用|网址|
 |----|----|
@@ -129,7 +103,7 @@ win10蓝牙在开始页面的齿轮处选择设备即可开启
 
 **注意代码高亮复制出来的时候要带格式粘贴**
 
-# WPS转PDF报未定义书签的错：
+# WPS转PDF报未定义书签的错
 
 新建的书签要右键更新域才可使用
 
@@ -141,12 +115,12 @@ win10蓝牙在开始页面的齿轮处选择设备即可开启
 | ctrl+y | 恢复 |
 | ctrl+x | 剪切 |
 
-# Casio如何转换进制：
+# Casio如何转换进制
 
 1. 菜单选择基数
 2. shift加上log ln等按键转换进制
 3. 输入时用十进制，按下=后再获得结果
 
-# C语言printf的对齐方法：
+# C语言printf的对齐方法
 
 [网址](https://blog.csdn.net/abcdu1/article/details/74926375/)
