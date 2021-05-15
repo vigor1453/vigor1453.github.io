@@ -51,9 +51,11 @@ $$(1+x)^p\equiv 1+x^p(mod \  p)$$
 那么：
 
 $$
-(1+x)^a\equiv (1+x)^{a_0}*(1+x)^{(a_1*p)}*...*(1+x)^{(a_k*p^k)}(mod \  p)
-\\
-\equiv (1+x)^{a_0}*(1+x^p)^{a_1}*...*(1+x^(p^k))^{a_k}(mod \  p)
+\begin{aligned}
+    (1+x)^a & \equiv (1+x)^{a_0}*(1+x)^{(a_1*p)}*...*(1+x)^{(a_k*p^k)}(mod \  p)
+    \\
+    & \equiv (1+x)^{a_0}*(1+x^p)^{a_1}*...*(1+x^{p^k})^{a_k}(mod \  p)
+\end{aligned}
 $$
 
 得到：
@@ -73,14 +75,14 @@ $$c(n,m)\%p=c(n/p,m/p)*c(n\%p,m\%p)\%p$$
     fac[i]是预处理的阶乘数组
     我在这儿计算阶乘逆元的时候直接用的费马小定理
 */
-int t,n,m,p,fac[maxn];
+int n,m,mod,fac[maxn];
 int c(int n,int m) {
-    if(n<m) return 0;
-    return (fac[n]*qpow(fac[m],p-2)*qpow(fac[n-m],p-2))%p;
+	if(n<m) return 0;
+	return (fac[n]*qpow(fac[m],mod-2)%mod*qpow(fac[n-m],mod-2))%mod;
 }
 int lucas(int n,int m) {
-    if(m==0) return 1;
-    return (c(n%p,m%p)%p*lucas(n/p,m/p)%p)%p;
+	if(m==0) return 1;
+	return c(n%mod,m%mod)*lucas(n/mod,m/mod)%mod;
 }
 ```
 
