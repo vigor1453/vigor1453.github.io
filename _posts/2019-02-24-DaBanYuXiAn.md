@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大版与西安"
+title: "大阪与西安"
 date: 2019-02-24
 tags: ["杂谈"]
 comments: true
