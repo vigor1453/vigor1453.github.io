@@ -67,3 +67,32 @@ void sieve() {
 # 一个性质
 
 在$[1,n-1]$范围内与$n$互质的所有正整数之和是$n/2*phi[n]$。
+
+# 筛因子个数
+
+```c++
+int fac[maxn],low[maxn];
+bool isp[maxn];
+V<int> p;
+void gao3() {
+	re(i,2,1e6) {
+		if(!isp[i])
+			p.pub(i),
+			fac[i]=2,
+			low[i]=1;
+		for(auto j:p) {
+			if(j*i>maxn) break;
+			isp[j*i]=1;
+			if(i%j==0) {
+				fac[j*i]=fac[i]/(low[i]+1)*(low[i]+2);
+				low[j*i]=low[i]+1;
+			}
+			else
+				fac[j*i]=fac[i]*fac[j],
+				low[j*i]=1;
+		}
+	}
+}
+```
+
+更多可参考[筛法](https://oi-wiki.org/math/sieve/)
