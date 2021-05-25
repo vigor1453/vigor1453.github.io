@@ -86,10 +86,22 @@ $$
 虚数不能比较大小，两个复数相等当且仅当实部和虚部都相等
 
 运算法则：
-1. $(a+bi)+(c+di)=(a+c)+(b+d)i$
-2. $(a+bi)-(c+di)=(a-c)+(b-d)i$
-3. $(a+bi)*(c+di)=ac+bci+bdi+bdi^2=(ac-bd)+(ad+cb)i$
-4. $\frac{a+bi}{c+di}=\frac{(a+bi)*(c-di)}{(c+di)*(c-di)}=\frac{(ac+bd)+(bc-ad)i}{c^2+d^2}$
+1. 
+$$
+(a+bi)+(c+di)=(a+c)+(b+d)i
+$$
+2. 
+$$
+(a+bi)-(c+di)=(a-c)+(b-d)i
+$$
+3. 
+$$
+(a+bi)*(c+di)=ac+bci+bdi+bdi^2=(ac-bd)+(ad+cb)i
+$$
+4. 
+$$
+\frac{a+bi}{c+di}=\frac{(a+bi)*(c-di)}{(c+di)*(c-di)}=\frac{(ac+bd)+(bc-ad)i}{c^2+d^2}
+$$
 
 复数的**加法满足平行四边形法则**；**乘法满足幅角相加，模长相乘**
 
