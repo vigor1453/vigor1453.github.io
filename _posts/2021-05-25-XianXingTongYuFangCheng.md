@@ -26,11 +26,17 @@ $$
 它的简要证明如下：
 
 > 假设：$a=bk+c,k\in Z$
+> 
 > 那么显然有：$c=a \ mod \ b=a-bk$
+> 
 > 令：$d|a,d|b$
+> 
 > 观察等式：$\frac{c}{d}=\frac{a}{d}-\frac{b}{d}k$
+> 
 > 因为：$\frac{a}{d},\frac{b}{d},k\in Z$
+> 
 > 所以：$\frac{c}{d}\in Z$
+> 
 > 即：$d|c$
 
 上面的证明说明了：**凡是$a$、$b$的公约数，同时也是$b$、$a \ mod \ b$的公约数**
@@ -56,14 +62,21 @@ $$
 证明如下：
 
 > 令：$d|a$
+> 
 > 那么对于d的质因数分解形式：
+> 
 > $$
 >   \prod_{i=0}^Op_i^{d_i}
 > $$
+> 
 > 显然有：$d_i<=a_i$
+> 
 > 同理有：$d_i<=b_i$
+> 
 > 即：$d_i<=min(a_i,b_i)$
+> 
 > 假设：$d=gcd(a,b)$，则：$d$必须尽量大
+> 
 > 所以：$d_i=min(a_i,b_i)$
 
 此外最大公约数还有一个性质：
@@ -75,10 +88,13 @@ $$
 利用最大公约数的质因数分解形式即可完成这个性质的证明：
 
 > 考虑$a$、$b$、$c$的质因数分解形式：
+> 
 > $$
 >   a=\prod_{i=0}^np_i^{a_i}, \ b=\prod_{i=0}^mp_i^{b_i}, \ c=\prod_{i=0}^Op_i^{c_i}
 > $$
+> 
 > 那么有：
+> 
 > $$
 > \begin{aligned}
 >   gcd(ac,bc)= & \ \prod_{i=0}^{max(n,m,O)}p_i^{min(a_i+c_i,b_i+c_i)} \\
@@ -105,25 +121,38 @@ $$
 $$
 \begin{aligned}
     &\forall a,b\in Z, \ gcd(a,b)=d \\
-    &\exist x,y\in Z,ax+by=c \Longleftrightarrow d|c
+    &exist \ x,y\in Z,ax+by=c \Longleftrightarrow d|c
 \end{aligned}
 $$
 
 证明如下：
 
 > 因为：$d=gcd(a,b)$
+> 
 > 所以：$d|a,d|b$
+> 
 > 所以：$\forall x,y\in Z,d|ax+by$
+> 
 > 假设：$s$是$ax+by$的最小正值，令：$q=\lfloor\frac{a}{s}\rfloor$
+> 
 > 则：$r=a\%s=a-q(ax+by)=a(1-qx)+b(-qy)$
+> 
 > 说明：$r$也满足$ax+by$的形式
+> 
 > 由于：$r\in[0,s)$，并且：$s$是$ax+by$的最小正值
+> 
 > 所以：$r=0$
+> 
 > 所以：$s|a$，同理：$s|b$
+> 
 > 而由于：$d=gcd(a,b)$，所以：$d\geq s$
+> 
 > 又因为：$d|ax+by$，即：$d|s$
+> 
 > 由于：$s>0$，所以：$d\leq s$
+> 
 > 由此得出结论：$d=s$
+> 
 > 既然$d$是$ax+by$的最小正值，而又显然有：$d|ax+by$，所以：**当$d\nmid c$时，方程无解**
 
 裴蜀定理还有一个重要的推论：
@@ -131,7 +160,7 @@ $$
 $$
 \begin{aligned}
     &\forall a,b\in Z, (a=0\&\&b=0)=false \\
-    &\exist \ x,y\in Z,ax+by=gcd(a,b)
+    &exist \ x,y\in Z,ax+by=gcd(a,b)
 \end{aligned}
 $$
 
@@ -140,13 +169,19 @@ $$
 1. 如果$a=0$或者$b=0$：
    
 > 此时原方程转化为$ax=a$或者$by=b$，定理显然成立
+
 2. 否则：
 
 > 由于$gcd(a,b)=gcd(a,-b)$，不妨假设：$a\geq b,a>0,b>0$
+> 
 > 令：$d=gcd(a,b)$
+> 
 > 对于$ax+by=d$，两边同时除以$d$可得：$a_1x+b_1y=1$
+> 
 > 由gcd性质的推论，此时有：$gcd(a_1,b_1)=1$，下面试图证明这个式子
+> 
 > 把辗转相除法的过程展开：
+> 
 > $$
 > \begin{aligned}
 >   &a_1=q_1b_1+r_1 \ (r_1\in[0,b_1)) \\
@@ -159,8 +194,11 @@ $$
 > $$
 >
 > 即：
+> 
 > $$gcd(a_1,b_1)=gcd(b_1,r_1)=...=gcd(r_{n-1},r_n)=1$$
+> 
 > 利用辗转相除法的性质：
+> 
 > $$
 > \begin{aligned}
 >   & gcd(r_{n-1},r_n)=1 \\
@@ -169,19 +207,27 @@ $$
 >   & r_n=1
 >\end{aligned}
 > $$
+> 
 > 得到了$r_n=1$之后，我们考虑把这个结果回代，消去$r_n$：
+> 
 > $$
 >   r_{n-2}=q_nr_{n-1}+1
 > $$
+> 
 > 也即：
+> 
 > $$
 >   1=r_{n-2}-q_nr_{n-1}
 > $$
+> 
 > 继续回代，消去$r_{n-1}$：
+> 
 > $$
 >   1=r_{n-2}-q_n(r_{n-3}-q_{n-1}r_{n-2})=(1+q_nq_{n-1})r_{n-2}-q_nr_{n-3}
 > $$
+> 
 > 重复上述过程，逐步消去$r_{n-2}...r_1$，最终可以获得形如：$1=a_1x+b_1y$的等式
+> 
 > 这说明：**方程$1=a_1x+b_1y$有解**，也就证明了：$gcd(a_1,b_1)=1$
 
 ## 扩展欧几里得
