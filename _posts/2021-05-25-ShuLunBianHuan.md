@@ -58,12 +58,15 @@ $$
 (a \ mod \ n)*(b \ mod \ n)=(a*b) \ mod \ n
 $$
 
-证明：
+证明如下：
 
-> 设：$x=a \ mod \ n, \ y=b \ mod \ n$
-> 根据定义：$a=k_1n+x, \ b=k_2n+y, \ k_1,k_2\in Z$
-> 所以：$a+b=(k_1+k_2)n+(x+y),a*b=k_1k_2n^2+k_1yn+k_2xn+xy$
-> 所以：$(a+b) \ mod \ n=x+y, \ (a*b) \ mod \ n=xy$
+设：$x=a \ mod \ n, \ y=b \ mod \ n$
+
+根据定义：$a=k_1n+x, \ b=k_2n+y, \ k_1,k_2\in Z$
+
+所以：$a+b=(k_1+k_2)n+(x+y),a*b=k_1k_2n^2+k_1yn+k_2xn+xy$
+
+所以：$(a+b) \ mod \ n=x+y, \ (a*b) \ mod \ n=xy$
 
 ### 整除的性质
 
@@ -112,7 +115,7 @@ $$
 > $$
 > \begin{aligned}
 >   \because \ &gcd(a,n)=1 \\
->   \therefore \ &\exist x,y\in Z,ax+ny=1 \\
+>   \therefore \ &exist \ x,y\in Z,ax+ny=1 \\
 >   \therefore \ &(b-c)(ax+ny)=b-c \\
 >   &abx-acx+bny-cny=b-c \\
 >   &(ab-ac)x+n(b-c)y=b-c \\
@@ -168,39 +171,56 @@ $$
 a^{p=1}\equiv 1(mod \ p)
 $$
 
-证明：
+证明如下：
 
-> 设：有一整数集合$S={1,2,...,p-1}$，函数$\Psi(x)=ax(mod \ p), \ x\in S$
-> 显然有：$\Psi(x)<p$
-> 1. 首先证明：**$\forall x, \ \Psi(x)\in S$**
-> 假设：$\Psi(x)=0$，即：$ax\equiv 0(mod \ p)$
-> 因为：$gcd(a,p)=1$,根据除法定理得到：$x\equiv 0(mod \ p)$
-> 这与$x\in S$相矛盾
-> 2. 第二步证明：**$\forall x,y\in S,x\neq y\Longrightarrow \Psi(x)\neq \Psi(y)$**
-> 假设：$\exist x\neq y,\Psi(x)=\Psi(y)$，即：$ax\equiv ay(mod \ p)$
-> 因为：$gcd(a,p)=1$,根据除法定理得到：$x\equiv y(mod \ p)$
-> 即：$x-y=kp,\ k\in Z$
-> 又因为：$x,y\in \{1,2,...,p-1\}$，所以：$k=0$
-> 即：$x=y$，这与假设矛盾
-> 通过以上两步证明可知：**把$\forall x\in \{1,2,...,p-1\}$代入$\Psi(x)$得到的输出其实就是集合$\{1,2,...,p-1\}$**
-> 那么两个集合中的元素之积也应该相等，即：
-> $$
-> \begin{aligned}
->   \prod_{i=1}^{p-1}i=&\prod_{i=1}^{p-1}\Psi(i) \\
->   =&(a*1) \ mod \ p*...*(a*(p-1)) \ mod \ p
-> \end{aligned}
-> $$
-> 根据模运算的乘法性质可得：
-> $$
-> \prod_{i=1}^{p-1}i\equiv a^{p-1}*(\prod_{i=1}^{p-1}i)(mod \ p)
-> $$
-> 因为：$p$是一个素数，显然有：$gcd(p,j)=1, \ j\in \{1,...,p-1\}$
-> 反复使用除法定理可得：
-> $$
-> a^{p-1}\equiv 1(mod \ p)
-> $$
+设有一整数集合$S={1,2,...,p-1}$，函数$\Psi(x)=ax(mod \ p), \ x\in S$
+显然有：$\Psi(x)<p$
 
-实际上费马小定理是**欧拉定理**的一个特例，它们的证明方法也类似，详细的欧拉函数相关知识可以参考离散对数和莫比乌斯反演相关章节
+首先证明：**$\forall x, \ \Psi(x)\in S$**
+
+假设：$\Psi(x)=0$，即：$ax\equiv 0(mod \ p)$
+
+因为：$gcd(a,p)=1$,根据除法定理得到：$x\equiv 0(mod \ p)$
+
+这与$x\in S$相矛盾
+
+第二步证明：$\forall x,y\in S,x\neq y\Longrightarrow \Psi(x)\neq \Psi(y)$
+
+假设：$exist \ x\neq y,\Psi(x)=\Psi(y)$，即：$ax\equiv ay(mod \ p)$
+
+因为：$gcd(a,p)=1$,根据除法定理得到：$x\equiv y(mod \ p)$
+
+即：$x-y=kp,\ k\in Z$
+
+又因为：$x,y\in \{1,2,...,p-1\}$，所以：$k=0$
+
+即：$x=y$，这与假设矛盾
+
+通过以上两步证明可知：把$\forall x\in \{1,2,...,p-1\}$代入$\Psi(x)$得到的输出其实就是集合$\{1,2,...,p-1\}$
+
+那么两个集合中的元素之积也应该相等，即：
+
+$$
+\begin{aligned}
+  \prod_{i=1}^{p-1}i=&\prod_{i=1}^{p-1}\Psi(i) = (a*1) \ mod \ p*...*(a*(p-1)) \ mod \ p
+\end{aligned}
+$$
+
+根据模运算的乘法性质可得：
+
+$$
+\prod_{i=1}^{p-1}i\equiv a^{p-1}*(\prod_{i=1}^{p-1}i)(mod \ p)
+$$
+
+因为：$p$是一个素数，显然有：$gcd(p,j)=1, \ j\in \{1,...,p-1\}$
+
+反复使用除法定理可得：
+
+$$
+a^{p-1}\equiv 1(mod \ p)
+$$
+
+实际上费马小定理是**欧拉定理**的一个特例，它们的证明方法也类似
 
 ### 与逆元的关系
 
@@ -219,7 +239,7 @@ $$
 
 本原根就是：**最小的原根**
 
-实际上非素数也有自己的原根，更精确的定义可以参考离散对数相关章节
+注意，实际上非素数也有自己的原根
 
 # 与fft的等价性证明
 
@@ -263,7 +283,7 @@ $$
 
 上面的证明过程中有两点注意：
 1. 当：$p\neq 2$时，显然：$\cfrac{p-1}{2}\in Z$，利用原根的性质可知：$g^{\cfrac{p-1}{2}}\neq g^{p-1}$
-2. 实际上求模意义下的开根是一个经典问题：**二次剩余**，它可以用[Cipolla 算法](https://oi-wiki.org/math/quad-residue/)求解，证明也可参考可以参考离散对数相关章节
+2. 实际上求模意义下的开根是一个经典问题：**二次剩余**，它可以用[Cipolla 算法](https://oi-wiki.org/math/quad-residue/)求解
 
 ## ntt的逆过程
 
