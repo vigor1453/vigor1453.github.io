@@ -29,7 +29,7 @@ $$
 > 
 > 那么显然有：$c=a \ mod \ b=a-bk$
 > 
-> 令：$d|a,d|b$
+> 令：$d\mid a,d\mid b$
 > 
 > 观察等式：$\frac{c}{d}=\frac{a}{d}-\frac{b}{d}k$
 > 
@@ -37,7 +37,7 @@ $$
 > 
 > 所以：$\frac{c}{d}\in Z$
 > 
-> 即：$d|c$
+> 即：$d\mid c$
 
 上面的证明说明了：**凡是$a$、$b$的公约数，同时也是$b$、$a \ mod \ b$的公约数**
 
@@ -61,7 +61,7 @@ $$
 
 证明如下：
 
-> 令：$d|a$
+> 令：$d\mid a$
 > 
 > 那么对于d的质因数分解形式：
 > 
@@ -121,7 +121,7 @@ $$
 $$
 \begin{aligned}
     &\forall a,b\in Z, \ gcd(a,b)=d \\
-    &exist \ x,y\in Z,ax+by=c \Longleftrightarrow d|c
+    &exist \ x,y\in Z,ax+by=c \Longleftrightarrow d\mid c
 \end{aligned}
 $$
 
@@ -129,9 +129,9 @@ $$
 
 > 因为：$d=gcd(a,b)$
 > 
-> 所以：$d|a,d|b$
+> 所以：$d\mid a,d\mid b$
 > 
-> 所以：$\forall x,y\in Z,d|ax+by$
+> 所以：$\forall x,y\in Z,d\mid ax+by$
 > 
 > 假设：$s$是$ax+by$的最小正值，令：$q=\lfloor\frac{a}{s}\rfloor$
 > 
@@ -143,17 +143,17 @@ $$
 > 
 > 所以：$r=0$
 > 
-> 所以：$s|a$，同理：$s|b$
+> 所以：$s\mid a$，同理：$s\mid b$
 > 
 > 而由于：$d=gcd(a,b)$，所以：$d\geq s$
 > 
-> 又因为：$d|ax+by$，即：$d|s$
+> 又因为：$d\mid ax+by$，即：$d\mid s$
 > 
 > 由于：$s>0$，所以：$d\leq s$
 > 
 > 由此得出结论：$d=s$
 > 
-> 既然$d$是$ax+by$的最小正值，而又显然有：$d|ax+by$，所以：**当$d\nmid c$时，方程无解**
+> 既然$d$是$ax+by$的最小正值，而又显然有：$d\mid ax+by$，所以：**当$d\nmid c$时，方程无解**
 
 裴蜀定理还有一个重要的推论：
 
@@ -289,7 +289,7 @@ $$
 
 ## 定理一
 
-方程$ax+by=c$与方程$ax\equiv c(mod \ b)$等价，有整数解的充要条件是$gcd(a,b)|c$
+方程$ax+by=c$与方程$ax\equiv c(mod \ b)$等价，有整数解的充要条件是$gcd(a,b)\mid c$
 
 方程的等价性显然，有整数解的充要条件参考裴蜀定理
 
