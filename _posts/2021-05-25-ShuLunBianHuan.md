@@ -282,8 +282,8 @@ $$
 $$
 
 上面的证明过程中有两点注意：
-1. 当：$p\neq 2$时，显然：$\cfrac{p-1}{2}\in Z$，利用原根的性质可知：$g^{\cfrac{p-1}{2}}\neq g^{p-1}$
-2. 实际上求模意义下的开根是一个经典问题：**二次剩余**，它可以用[Cipolla 算法](https://oi-wiki.org/math/quad-residue/)求解
+* 当：$p\neq 2$时，显然：$\cfrac{p-1}{2}\in Z$，利用原根的性质可知：$g^{\cfrac{p-1}{2}}\neq g^{p-1}$
+* 实际上求模意义下的开根是一个经典问题：**二次剩余**，它可以用[Cipolla 算法](https://oi-wiki.org/math/quad-residue/)求解
 
 ## ntt的逆过程
 
