@@ -136,7 +136,11 @@ $$
 
 不难发现：$w_n^n=w_n^0=1$
 
-实际上：$w_n^k=e^{2\pi*\cfrac{k}{n}i}=cos(2\pi*\cfrac{k}{n})+sin(2\pi*\cfrac{k}{n})*i$
+实际上：
+
+$$
+w_n^k=e^{2\pi*\cfrac{k}{n}i}=cos(2\pi*\cfrac{k}{n})+sin(2\pi*\cfrac{k}{n})*i
+$$
 
 单位根有两条重要性质：
 
@@ -220,7 +224,7 @@ $$
 
 下面分两类进行讨论：
 
-1. $k\in [0,\cfrac{n-2}{2}],k\in Z$
+* $k\in [0,\cfrac{n-2}{2}],k\in Z$
 
 由折半引理可得：
 
@@ -232,7 +236,7 @@ $$
 \end{aligned}
 $$
 
-2. $k+\cfrac{n}{2}\in [\cfrac{n}{2},n-1],k\in Z$
+* $k+\cfrac{n}{2}\in [\cfrac{n}{2},n-1],k\in Z$
 
 由折半引理和消去引理可得：
 
@@ -296,13 +300,13 @@ $$
 
 下面分两类进行讨论：
 
-1. $j-k=0$
+* $j-k=0$
 
 此时显然有：$\delta=0,w_n^\delta=1$
 
 得出：$S(j,k)=n$
 
-2. $j-k \not = 0$
+* $j-k \not = 0$
 
 代入等比数列求和公式：
 
