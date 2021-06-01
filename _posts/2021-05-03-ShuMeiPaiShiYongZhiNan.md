@@ -2,7 +2,7 @@
 layout: post
 title: "树莓派使用指南"
 date: 2021-05-03
-tags: ["技术"]
+tags: ["raspberry pi"]
 toc: true
 author: oneman233
 excerpt: "微型电脑的巅峰"

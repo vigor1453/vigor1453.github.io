@@ -2,7 +2,7 @@
 layout: post
 title: "冰块传奇"
 date: 2018-08-23
-tags: ["读后感和玩后感"]
+tags: ["读后感"]
 comments: true
 author: oneman233
 excerpt: "有关《百年孤独》"

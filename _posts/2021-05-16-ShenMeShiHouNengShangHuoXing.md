@@ -2,7 +2,7 @@
 layout: post
 title: "什么时候能上火星"
 date: 2021-05-16
-tags: ["读后感和玩后感"]
+tags: ["读后感"]
 comments: true
 author: oneman233
 excerpt: "关于《星际牛仔》"

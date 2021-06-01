@@ -2,7 +2,7 @@
 layout: post
 title: "markdown使用指南"
 date: 2021-05-03
-tags: ["技术"]
+tags: ["markdown"]
 toc: true
 author: oneman233
 excerpt: "优雅地写公式"

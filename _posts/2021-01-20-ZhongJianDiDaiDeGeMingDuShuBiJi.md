@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "《中间地带的革命读书笔记》"
+title: "中间地带的革命读书笔记"
 date: 2021-01-20
-tags: ["读后感和玩后感"]
+tags: ["读后感"]
 comments: true
 author: oneman233
 excerpt: "上世纪的革命"

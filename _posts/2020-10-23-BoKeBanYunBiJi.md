@@ -2,7 +2,6 @@
 layout: post
 title: "博客搬运笔记"
 date: 2020-10-23
-tags: ["技术"]
 comments: true
 author: oneman233
 excerpt: "搬家"
@@ -57,9 +56,9 @@ toc: true
     toc: true            //是否开启文章目录
     ---
 
-注意文章的目录会自动识别html文档里的\<h>标签。
+注意文章的目录会自动识别html文档里的\<h>标签
 
-并且想要在markdown中直接显示html标签的话需要加上反斜杠转义。
+并且想要在markdown中直接显示html标签的话需要加上反斜杠转义
 
 # 显示作者
 
@@ -121,25 +120,23 @@ SimpleJekyllSearch({
 ]
 ~~~
 
-注意：**注意去掉百分号和大括号前的注释，这里为了防止markdown把它识别为html才注释掉。**
+注意：**注意去掉百分号和大括号前的注释，这里为了防止markdown把它识别为html才注释掉**
 
-问题仍然存在，最后的解决方案是：**把DOM放在Script之前，这样Script在getElementID的时候才找得到。**
+问题仍然存在，最后的解决方案是：**把DOM放在Script之前，这样Script在getElementID的时候才找得到**
 
 问题解决。
 
 # 文章标题重复
 
-主要是之前写过很多标题为“无题”的文章，虽然在`_post`目录下名字不一样，但是渲染之后的html会重名。
+主要是之前写过很多标题为“无题”的文章，虽然在`_post`目录下名字不一样，但是渲染之后的html会重名
 
-目前的命名方法是在可能重复的标题后面后面再加上发布日期。
+目前的命名方法是在可能重复的标题后面后面再加上发布日期
 
 # 代码块周围的滚动条
 
 参考：[如何去除不必要的滚动条](https://stackoom.com/question/3k4Ao/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E5%9C%A8Jekyll%E7%BD%91%E7%AB%99%E4%B8%8A%E7%9A%84markdown%E4%BB%A3%E7%A0%81%E5%9D%97%E5%91%A8%E5%9B%B4%E5%87%BA%E7%8E%B0%E5%8F%8C%E8%BE%B9%E6%A1%86)
 
 # pdf显示
-
-~~采用插件jekyll-pdf-embed：[项目地址](https://github.com/MihajloNesic/jekyll-pdf-embed)~~
 
 使用以下代码即可：
 

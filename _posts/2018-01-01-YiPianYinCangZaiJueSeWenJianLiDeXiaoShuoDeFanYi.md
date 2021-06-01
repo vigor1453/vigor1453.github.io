@@ -2,7 +2,7 @@
 layout: post
 title: "一篇隐藏在角色文件里的小说的翻译"
 date: 2018-01-01
-tags: ["读后感和玩后感"]
+tags: ["读后感"]
 comments: true
 author: oneman233
 excerpt: "什么是病娇"

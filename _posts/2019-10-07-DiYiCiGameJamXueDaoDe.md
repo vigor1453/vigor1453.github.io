@@ -2,7 +2,7 @@
 layout: post
 title: "第一次gamejam学到的"
 date: 2019-10-07
-tags: ["学习笔记"]
+tags: ["gamejam"]
 comments: true
 author: oneman233
 excerpt: "有关Unity"

@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "python的一些神秘语法"
+title: "python笔记"
 date: 2021-05-03
-tags: ["技术"]
+tags: ["python"]
 toc: true
 author: oneman233
-excerpt: "有关python"
+excerpt: "一些特别的语法"
 ---
 
 # f-string
@@ -252,3 +252,20 @@ for xx in x:
     print(xx, end = ',')
 >>> 1,2,3,
 ```
+
+# 类型注解
+
+```py
+def add(x:int, y:int) -> int:
+    return x + y
+```
+
+指明了函数的返回值类型，但是这些注解并不提供校验，函数仍然可以返回任意类型
+
+```py
+a: int = 123
+b: str = 'hello'
+l: List[int] = [1, 2, 3]
+```
+
+变量也是可以进行类型注解的
