@@ -6,7 +6,6 @@ tags: ["unity"]
 comments: true
 author: oneman233
 excerpt: "环境配置踩坑"
-toc: true
 ---
 
 主要参考了官方给出的[Unity扩展安装指南](https://code.visualstudio.com/docs/other/unity)
