@@ -2,7 +2,7 @@
 layout: post
 title: "VSCode安装Unity"
 date: 2021-06-01
-tags: ["unity","cpp"]
+tags: ["unity","vscode"]
 comments: true
 author: oneman233
 excerpt: "环境配置踩坑"
