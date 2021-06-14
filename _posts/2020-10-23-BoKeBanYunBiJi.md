@@ -2,6 +2,7 @@
 layout: post
 title: "博客搬运笔记"
 date: 2020-10-23
+tags: ["博客"]
 comments: true
 author: oneman233
 excerpt: "搬家"
