@@ -141,3 +141,65 @@ $$
     </p>
 </div>
 ```
+
+# 下大括号
+
+写法：
+
+```
+\underbrace{...}_k
+```
+
+效果：
+
+$$
+\underbrace{0,...,0}_k
+$$
+
+# 内容折叠
+
+写法：
+
+```html
+<details>
+<summary>Title</summary>
+
+content!!!
+</details>
+```
+
+效果：
+
+<details>
+<summary>Title</summary>
+
+content!!!
+</details>
+
+# 公式对齐
+
+注意一点，Markdown中的 `aligned` 是可以套在 `aligned` 中来设置对齐的，如下所示：
+
+$$
+\begin{aligned}
+&\because x'=x+x_{w-1}2^w,y'=y+y_{w-1}2^w \\
+&\begin{aligned}
+	\therefore x'*y'&=[(x+x_{w-1}2^w)*(y+y_{w-1}2^w)] \ mod \ 2^w \\
+	&=(x*y) \ mod \ 2^w \\
+\end{aligned}
+\end{aligned}
+$$
+
+写法：
+
+```
+\begin{aligned}
+&\because x'=x+x_{w-1}2^w,y'=y+y_{w-1}2^w \\
+&\begin{aligned}
+	\therefore x'*y'&=[(x+x_{w-1}2^w)*(y+y_{w-1}2^w)] \ mod \ 2^w \\
+	&=(x*y) \ mod \ 2^w \\
+\end{aligned}
+\end{aligned}
+```
+
+但是这个方法会导致左边有一点点错开，目前还没找到解决方案
