@@ -3,7 +3,6 @@ layout: post
 title: "Vim使用"
 date: 2021-06-15
 tags: ["OS"]
-toc: true
 author: oneman233
 excerpt: "神奇的编辑器"
 ---
