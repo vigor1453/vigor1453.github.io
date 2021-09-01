@@ -2,7 +2,7 @@
 layout: post
 title: "VSCode安装C++"
 date: 2021-06-03
-tags: ["cpp","vscode"]
+tags: ["vscode"]
 comments: true
 author: oneman233
 excerpt: "环境配置再踩坑"
