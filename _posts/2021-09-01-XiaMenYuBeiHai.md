@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "厦门与北海"
-date: 2021-08-21
+date: 2021-09-01
 tags: ["游记"]
 comments: true
 author: oneman233
