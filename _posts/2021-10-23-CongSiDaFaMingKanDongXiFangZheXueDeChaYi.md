@@ -48,8 +48,13 @@ toc: true
 # 参考文献
 
 [1] Ali, R. U. (2012). Medieval Europe: The Myth of Dark Ages and the Impact of Islam. Islamic Studies, 155-168.
+
 [2] Russell, B. (2013). History of western philosophy: Collectors edition. Routledge.
+
 [3] Marx, K. (2013). Manifesto of the communist party. Simon and Schuster.
+
 [4] Smith, A. (1937). The wealth of nations [1776] (Vol. 11937). na.
+
 [5] Fung, Y. L. (1997). A short history of Chinese philosophy. Simon and Schuster.
+
 [6] Weber, M. (1991). Die Wirtschaftsethik der Weltreligionen Konfuzianismus und Taoismus: Schriften 1915-1920 (Vol. 1). Mohr Siebeck.
