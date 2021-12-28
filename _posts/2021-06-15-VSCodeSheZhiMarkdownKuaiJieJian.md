@@ -2,7 +2,7 @@
 layout: post
 title: "VSCode设置Markdown快捷键"
 date: 2021-06-15
-tags: ["vscode"]
+tags: ["markdown"]
 comments: true
 author: oneman233
 excerpt: "更方便的snippet"
